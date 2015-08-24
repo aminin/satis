@@ -1,0 +1,10 @@
+{
+    "name": "My composer repo",
+    "homepage": "https://aminin.github.io/satis/",
+    "repositories": [
+        { "type": "vcs", "url": "https://github.com/aminin/php-airbrake.git" },
+        { "type": "vcs", "url": "https://github.com/aminin/EoAirbrakeBundle.git" }
+    ],
+    "require-all": true
+}
+

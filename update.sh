@@ -17,7 +17,7 @@ if [[ "$1" == 'push' ]]; then
   git commit -a -m "$MESSAGE" && git push origin master
 
   pushd web
-    git commit -a -m "$MESSAGE" && git push origin gh-pages
+    git add . && git commit -a -m "$MESSAGE" && git push origin gh-pages
   popd
 fi
 

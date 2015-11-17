@@ -3,7 +3,7 @@
     "homepage": "https://aminin.github.io/satis/",
     "repositories": [
         { "type": "vcs", "url": "https://github.com/aminin/EoAirbrakeBundle.git" },
-        { "type": "vcs", "url": "https://github.com/bezhermoso/NelmioApiDocBundle.git" },
+        { "type": "vcs", "url": "https://github.com/aminin/NelmioApiDocBundle.git" },
         { "type": "vcs", "url": "https://github.com/omlook/omlook-common-bundle.git" }
     ],
     "require-all": true

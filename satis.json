@@ -4,10 +4,8 @@
     "repositories": [
         { "type": "vcs", "url": "https://github.com/aminin/RMSPushNotificationsBundle.git" },
         { "type": "vcs", "url": "https://github.com/aminin/SGKBarcodeBundle.git" },
-        { "type": "vcs", "url": "https://github.com/aminin/NelmioApiDocBundle.git" }
     ],
     "require": {
-        "nelmio/api-doc-bundle": "*",
         "richsage/rms-push-notifications-bundle": "*",
         "sgk/barcode-bundle": "*"
     }

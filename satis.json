@@ -3,7 +3,7 @@
     "homepage": "https://aminin.github.io/satis/",
     "repositories": [
         { "type": "vcs", "url": "https://github.com/aminin/RMSPushNotificationsBundle.git" },
-        { "type": "vcs", "url": "https://github.com/aminin/SGKBarcodeBundle.git" },
+        { "type": "vcs", "url": "https://github.com/aminin/SGKBarcodeBundle.git" }
     ],
     "require": {
         "richsage/rms-push-notifications-bundle": "*",

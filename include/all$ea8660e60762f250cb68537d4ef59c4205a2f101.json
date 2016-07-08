@@ -1,0 +1,4462 @@
+{
+    "packages": {
+        "gedmo/doctrine-extensions": {
+            "v2.2.0": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "v2.2.0",
+                "version_normalized": "2.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "3b2e2dc08f55acc0a0e5a6d7b6b90d901f9c9a5c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/3b2e2dc08f55acc0a0e5a6d7b6b90d901f9c9a5c",
+                    "reference": "3b2e2dc08f55acc0a0e5a6d7b6b90d901f9c9a5c",
+                    "shasum": ""
+                },
+                "require": {
+                    "doctrine/common": ">=2.1",
+                    "php": ">=5.3.2"
+                },
+                "suggest": {
+                    "doctrine/mongodb-odm": "*",
+                    "doctrine/orm": ">=2.1"
+                },
+                "time": "2012-01-21 20:19:26",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree"
+                ],
+                "support": {
+                    "source": "https://github.com/aminin/DoctrineExtensions/tree/v2.2.0"
+                }
+            },
+            "v2.2.1": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "v2.2.1",
+                "version_normalized": "2.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "9e80cd5298d311c77c46827d32cff9eb3903861d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/9e80cd5298d311c77c46827d32cff9eb3903861d",
+                    "reference": "9e80cd5298d311c77c46827d32cff9eb3903861d",
+                    "shasum": ""
+                },
+                "require": {
+                    "doctrine/common": ">=2.1",
+                    "php": ">=5.3.2"
+                },
+                "suggest": {
+                    "doctrine/mongodb-odm": "*",
+                    "doctrine/orm": ">=2.1"
+                },
+                "time": "2012-03-10 18:50:51",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree"
+                ],
+                "support": {
+                    "source": "https://github.com/aminin/DoctrineExtensions/tree/v2.2.1"
+                }
+            },
+            "v2.2.2": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "v2.2.2",
+                "version_normalized": "2.2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "9e4d9d2025e1e04812457b4e51bfc405d27c74a9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/9e4d9d2025e1e04812457b4e51bfc405d27c74a9",
+                    "reference": "9e4d9d2025e1e04812457b4e51bfc405d27c74a9",
+                    "shasum": ""
+                },
+                "require": {
+                    "doctrine/common": ">=2.1",
+                    "php": ">=5.3.2"
+                },
+                "suggest": {
+                    "doctrine/mongodb-odm": "*",
+                    "doctrine/orm": ">=2.1"
+                },
+                "time": "2012-05-01 14:45:11",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree"
+                ],
+                "support": {
+                    "source": "https://github.com/aminin/DoctrineExtensions/tree/v2.2.2"
+                }
+            },
+            "v2.2.3": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "v2.2.3",
+                "version_normalized": "2.2.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "c39402a5a41034c7d9b8c6a3af8c6daa3b42cefc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/c39402a5a41034c7d9b8c6a3af8c6daa3b42cefc",
+                    "reference": "c39402a5a41034c7d9b8c6a3af8c6daa3b42cefc",
+                    "shasum": ""
+                },
+                "require": {
+                    "doctrine/common": ">=2.1",
+                    "php": ">=5.3.2"
+                },
+                "suggest": {
+                    "doctrine/mongodb-odm": "*",
+                    "doctrine/orm": ">=2.1"
+                },
+                "time": "2012-06-15 13:44:05",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree"
+                ],
+                "support": {
+                    "source": "https://github.com/aminin/DoctrineExtensions/tree/v2.2.3"
+                }
+            },
+            "2.2.x-dev": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "2.2.x-dev",
+                "version_normalized": "2.2.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "8dbab96dc9a81f0644aa8518b7a14c251ca64800"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/8dbab96dc9a81f0644aa8518b7a14c251ca64800",
+                    "reference": "8dbab96dc9a81f0644aa8518b7a14c251ca64800",
+                    "shasum": ""
+                },
+                "require": {
+                    "doctrine/common": ">=2.1",
+                    "php": ">=5.3.2"
+                },
+                "suggest": {
+                    "doctrine/mongodb-odm": "*",
+                    "doctrine/orm": ">=2.1"
+                },
+                "time": "2013-04-21 18:58:59",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail.com"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree"
+                ],
+                "support": {
+                    "source": "https://github.com/aminin/DoctrineExtensions/tree/2.2.x"
+                }
+            },
+            "v2.3.0": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "v2.3.0",
+                "version_normalized": "2.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "31e5e51f242c7cd03433d7c0c8d58c55b26cc095"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/31e5e51f242c7cd03433d7c0c8d58c55b26cc095",
+                    "reference": "31e5e51f242c7cd03433d7c0c8d58c55b26cc095",
+                    "shasum": ""
+                },
+                "require": {
+                    "doctrine/common": ">=2.1",
+                    "php": ">=5.3.2"
+                },
+                "suggest": {
+                    "doctrine/mongodb-odm": "*",
+                    "doctrine/orm": ">=2.1"
+                },
+                "time": "2012-02-26 16:27:29",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree"
+                ],
+                "support": {
+                    "source": "https://github.com/aminin/DoctrineExtensions/tree/v2.3.0"
+                }
+            },
+            "v2.3.1": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "v2.3.1",
+                "version_normalized": "2.3.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "2aed6d5d201fc34308eaca3ba23a17ab04c38056"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/2aed6d5d201fc34308eaca3ba23a17ab04c38056",
+                    "reference": "2aed6d5d201fc34308eaca3ba23a17ab04c38056",
+                    "shasum": ""
+                },
+                "require": {
+                    "doctrine/common": ">=2.1,<2.4-dev",
+                    "php": ">=5.3.2"
+                },
+                "suggest": {
+                    "doctrine/mongodb-odm": "*",
+                    "doctrine/orm": ">=2.1"
+                },
+                "time": "2012-07-05 20:53:16",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree"
+                ],
+                "support": {
+                    "source": "https://github.com/aminin/DoctrineExtensions/tree/v2.3.1"
+                }
+            },
+            "v2.3.10": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "v2.3.10",
+                "version_normalized": "2.3.10.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "4e9bbd54ebb22bb004b2ec71b1b0ce3ed5b992d0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/4e9bbd54ebb22bb004b2ec71b1b0ce3ed5b992d0",
+                    "reference": "4e9bbd54ebb22bb004b2ec71b1b0ce3ed5b992d0",
+                    "shasum": ""
+                },
+                "require": {
+                    "behat/transliterator": "~1.0",
+                    "doctrine/common": "~2.4",
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "doctrine/mongodb-odm": ">=1.0.0-BETA11",
+                    "doctrine/orm": "~2.4",
+                    "phpunit/phpunit": "~4.4",
+                    "phpunit/phpunit-mock-objects": "~2.3",
+                    "symfony/yaml": "~2.3"
+                },
+                "suggest": {
+                    "doctrine/mongodb-odm": "to use the extensions with the MongoDB ODM",
+                    "doctrine/orm": "to use the extensions with the ORM"
+                },
+                "time": "2015-01-21 20:55:10",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo\\": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail.com"
+                    },
+                    {
+                        "name": "Gustavo Falco",
+                        "email": "comfortablynumb84@gmail.com"
+                    },
+                    {
+                        "name": "David Buchmann",
+                        "email": "david@liip.ch"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "blameable",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree",
+                    "uploadable"
+                ],
+                "support": {
+                    "email": "gediminas.morkevicius@gmail.com",
+                    "wiki": "https://github.com/Atlantic18/DoctrineExtensions/tree/master/doc",
+                    "source": "https://github.com/aminin/DoctrineExtensions/tree/v2.3.10"
+                }
+            },
+            "v2.3.11": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "v2.3.11",
+                "version_normalized": "2.3.11.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "5e19886a64ef7e3540bb362eacfdf7d60c5608e6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/5e19886a64ef7e3540bb362eacfdf7d60c5608e6",
+                    "reference": "5e19886a64ef7e3540bb362eacfdf7d60c5608e6",
+                    "shasum": ""
+                },
+                "require": {
+                    "behat/transliterator": "~1.0",
+                    "doctrine/common": "~2.4",
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "doctrine/mongodb-odm": ">=1.0.0-BETA11",
+                    "doctrine/orm": "~2.4",
+                    "phpunit/phpunit": "~4.4",
+                    "phpunit/phpunit-mock-objects": "~2.3",
+                    "symfony/yaml": "~2.3"
+                },
+                "suggest": {
+                    "doctrine/mongodb-odm": "to use the extensions with the MongoDB ODM",
+                    "doctrine/orm": "to use the extensions with the ORM"
+                },
+                "time": "2015-01-28 09:12:46",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo\\": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail.com"
+                    },
+                    {
+                        "name": "Gustavo Falco",
+                        "email": "comfortablynumb84@gmail.com"
+                    },
+                    {
+                        "name": "David Buchmann",
+                        "email": "david@liip.ch"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "blameable",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree",
+                    "uploadable"
+                ],
+                "support": {
+                    "email": "gediminas.morkevicius@gmail.com",
+                    "wiki": "https://github.com/Atlantic18/DoctrineExtensions/tree/master/doc",
+                    "source": "https://github.com/aminin/DoctrineExtensions/tree/v2.3.11"
+                }
+            },
+            "v2.3.12": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "v2.3.12",
+                "version_normalized": "2.3.12.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "c3ff3c73c95b01e107af33d4fe3abf80794e2df9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/c3ff3c73c95b01e107af33d4fe3abf80794e2df9",
+                    "reference": "c3ff3c73c95b01e107af33d4fe3abf80794e2df9",
+                    "shasum": ""
+                },
+                "require": {
+                    "behat/transliterator": "~1.0",
+                    "doctrine/common": "~2.4",
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "doctrine/mongodb-odm": ">=1.0.0-BETA11",
+                    "doctrine/orm": "~2.4",
+                    "phpunit/phpunit": "~4.4",
+                    "phpunit/phpunit-mock-objects": "~2.3",
+                    "symfony/yaml": "~2.3"
+                },
+                "suggest": {
+                    "doctrine/mongodb-odm": "to use the extensions with the MongoDB ODM",
+                    "doctrine/orm": "to use the extensions with the ORM"
+                },
+                "time": "2015-02-24 21:41:37",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo\\": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail.com"
+                    },
+                    {
+                        "name": "Gustavo Falco",
+                        "email": "comfortablynumb84@gmail.com"
+                    },
+                    {
+                        "name": "David Buchmann",
+                        "email": "david@liip.ch"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "blameable",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree",
+                    "uploadable"
+                ],
+                "support": {
+                    "email": "gediminas.morkevicius@gmail.com",
+                    "wiki": "https://github.com/Atlantic18/DoctrineExtensions/tree/master/doc",
+                    "source": "https://github.com/aminin/DoctrineExtensions/tree/v2.3.12"
+                }
+            },
+            "v2.3.2": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "v2.3.2",
+                "version_normalized": "2.3.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "01ca83002414a8e585108b79632881d7ce21cb36"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/01ca83002414a8e585108b79632881d7ce21cb36",
+                    "reference": "01ca83002414a8e585108b79632881d7ce21cb36",
+                    "shasum": ""
+                },
+                "require": {
+                    "doctrine/common": ">=2.1,<2.4-dev",
+                    "php": ">=5.3.2"
+                },
+                "suggest": {
+                    "doctrine/mongodb-odm": "*",
+                    "doctrine/orm": ">=2.1"
+                },
+                "time": "2012-07-13 22:26:40",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree"
+                ],
+                "support": {
+                    "source": "https://github.com/aminin/DoctrineExtensions/tree/v2.3.2"
+                }
+            },
+            "v2.3.3": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "v2.3.3",
+                "version_normalized": "2.3.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "0cc2f18585020877c8f6b4f02bb90494ab9b2dba"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/0cc2f18585020877c8f6b4f02bb90494ab9b2dba",
+                    "reference": "0cc2f18585020877c8f6b4f02bb90494ab9b2dba",
+                    "shasum": ""
+                },
+                "require": {
+                    "doctrine/common": ">=2.2,<2.5-dev",
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "doctrine/dbal": ">=2.2",
+                    "doctrine/mongodb": ">=1.0.0-BETA1",
+                    "doctrine/mongodb-odm": ">=1.0.0-BETA6",
+                    "doctrine/orm": ">=2.2"
+                },
+                "suggest": {
+                    "doctrine/dbal": ">=2.2",
+                    "doctrine/mongodb": ">=1.0.0-BETA1",
+                    "doctrine/mongodb-odm": ">=1.0.0-BETA6",
+                    "doctrine/orm": ">=2.2"
+                },
+                "time": "2012-12-18 21:02:17",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail.com"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree"
+                ],
+                "support": {
+                    "source": "https://github.com/aminin/DoctrineExtensions/tree/v2.3.3"
+                }
+            },
+            "v2.3.4": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "v2.3.4",
+                "version_normalized": "2.3.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "cd4f848cc25c295f0465f88c95efc7f445f876a4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/cd4f848cc25c295f0465f88c95efc7f445f876a4",
+                    "reference": "cd4f848cc25c295f0465f88c95efc7f445f876a4",
+                    "shasum": ""
+                },
+                "require": {
+                    "doctrine/common": ">=2.2,<2.5-dev",
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "doctrine/dbal": ">=2.2",
+                    "doctrine/mongodb": "1.0.1",
+                    "doctrine/mongodb-odm": "1.0.0-BETA7",
+                    "doctrine/orm": ">=2.2",
+                    "symfony/yaml": "2.*"
+                },
+                "suggest": {
+                    "doctrine/dbal": ">=2.3.2",
+                    "doctrine/mongodb": ">=1.0.1",
+                    "doctrine/mongodb-odm": ">=1.0.0-BETA7",
+                    "doctrine/orm": ">=2.3.2"
+                },
+                "time": "2013-02-05 13:39:54",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail.com"
+                    },
+                    {
+                        "name": "Gustavo Falco",
+                        "email": "comfortablynumb84@gmail.com"
+                    },
+                    {
+                        "name": "David Buchmann",
+                        "email": "david@liip.ch"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "blameable",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree",
+                    "uploadable"
+                ],
+                "support": {
+                    "email": "gediminas.morkevicius@gmail.com",
+                    "wiki": "https://github.com/l3pp4rd/DoctrineExtensions/tree/master/doc",
+                    "issues": "https://github.com/l3pp4rd/DoctrineExtensions/issues",
+                    "source": "https://github.com/l3pp4rd/DoctrineExtensions"
+                }
+            },
+            "v2.3.5": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "v2.3.5",
+                "version_normalized": "2.3.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "d5fd801c9313bdae5f63195fdf388bca7cf07a1d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/d5fd801c9313bdae5f63195fdf388bca7cf07a1d",
+                    "reference": "d5fd801c9313bdae5f63195fdf388bca7cf07a1d",
+                    "shasum": ""
+                },
+                "require": {
+                    "doctrine/common": ">=2.2,<2.5-dev",
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "doctrine/dbal": ">=2.2",
+                    "doctrine/mongodb": "1.0.1",
+                    "doctrine/mongodb-odm": "1.0.0-BETA7",
+                    "doctrine/orm": ">=2.2",
+                    "symfony/yaml": "2.*"
+                },
+                "suggest": {
+                    "doctrine/dbal": ">=2.3.2",
+                    "doctrine/mongodb": ">=1.0.1",
+                    "doctrine/mongodb-odm": ">=1.0.0-BETA7",
+                    "doctrine/orm": ">=2.3.2"
+                },
+                "time": "2013-03-05 06:32:22",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail.com"
+                    },
+                    {
+                        "name": "Gustavo Falco",
+                        "email": "comfortablynumb84@gmail.com"
+                    },
+                    {
+                        "name": "David Buchmann",
+                        "email": "david@liip.ch"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "blameable",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree",
+                    "uploadable"
+                ],
+                "support": {
+                    "email": "gediminas.morkevicius@gmail.com",
+                    "wiki": "https://github.com/l3pp4rd/DoctrineExtensions/tree/master/doc",
+                    "issues": "https://github.com/l3pp4rd/DoctrineExtensions/issues",
+                    "source": "https://github.com/l3pp4rd/DoctrineExtensions"
+                }
+            },
+            "v2.3.6": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "v2.3.6",
+                "version_normalized": "2.3.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "e84a4e20c7b5940600346f82ea1fa6ec63e4a3d2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/e84a4e20c7b5940600346f82ea1fa6ec63e4a3d2",
+                    "reference": "e84a4e20c7b5940600346f82ea1fa6ec63e4a3d2",
+                    "shasum": ""
+                },
+                "require": {
+                    "doctrine/common": ">=2.2,<2.5-dev",
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "doctrine/common": ">=2.4.0-BETA2",
+                    "doctrine/dbal": ">=2.4.0-BETA2",
+                    "doctrine/mongodb": ">=1.0.2",
+                    "doctrine/mongodb-odm": ">=1.0.0-BETA8",
+                    "doctrine/orm": ">=2.4.0-BETA2",
+                    "symfony/yaml": "2.*"
+                },
+                "suggest": {
+                    "doctrine/dbal": ">=2.3.2",
+                    "doctrine/mongodb": ">=1.0.1",
+                    "doctrine/mongodb-odm": ">=1.0.0-BETA7",
+                    "doctrine/orm": ">=2.3.2"
+                },
+                "time": "2013-05-21 12:09:55",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail.com"
+                    },
+                    {
+                        "name": "Gustavo Falco",
+                        "email": "comfortablynumb84@gmail.com"
+                    },
+                    {
+                        "name": "David Buchmann",
+                        "email": "david@liip.ch"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "blameable",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree",
+                    "uploadable"
+                ],
+                "support": {
+                    "email": "gediminas.morkevicius@gmail.com",
+                    "wiki": "https://github.com/l3pp4rd/DoctrineExtensions/tree/master/doc",
+                    "issues": "https://github.com/l3pp4rd/DoctrineExtensions/issues",
+                    "source": "https://github.com/l3pp4rd/DoctrineExtensions"
+                }
+            },
+            "v2.3.7": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "v2.3.7",
+                "version_normalized": "2.3.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "0aa660ffea298b630b8ded7bd2a7eae0d8619fdb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/0aa660ffea298b630b8ded7bd2a7eae0d8619fdb",
+                    "reference": "0aa660ffea298b630b8ded7bd2a7eae0d8619fdb",
+                    "shasum": ""
+                },
+                "require": {
+                    "doctrine/common": ">=2.2,<2.5-dev",
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "doctrine/common": ">=2.4.0-RC3",
+                    "doctrine/dbal": ">=2.4.0-RC1",
+                    "doctrine/mongodb": ">=1.0.3",
+                    "doctrine/mongodb-odm": ">=1.0.0-BETA9",
+                    "doctrine/orm": ">=2.4.0-RC1",
+                    "symfony/yaml": "2.3.1"
+                },
+                "suggest": {
+                    "doctrine/dbal": ">=2.3.2",
+                    "doctrine/mongodb": ">=1.0.1",
+                    "doctrine/mongodb-odm": ">=1.0.0-BETA7",
+                    "doctrine/orm": ">=2.3.2"
+                },
+                "time": "2013-08-18 07:18:44",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo\\": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail.com"
+                    },
+                    {
+                        "name": "Gustavo Falco",
+                        "email": "comfortablynumb84@gmail.com"
+                    },
+                    {
+                        "name": "David Buchmann",
+                        "email": "david@liip.ch"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "blameable",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree",
+                    "uploadable"
+                ],
+                "support": {
+                    "email": "gediminas.morkevicius@gmail.com",
+                    "wiki": "https://github.com/l3pp4rd/DoctrineExtensions/tree/master/doc",
+                    "issues": "https://github.com/l3pp4rd/DoctrineExtensions/issues",
+                    "source": "https://github.com/l3pp4rd/DoctrineExtensions"
+                }
+            },
+            "v2.3.8": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "v2.3.8",
+                "version_normalized": "2.3.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "d2bef940268e4dc5f0f050e80458169a7267813a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/d2bef940268e4dc5f0f050e80458169a7267813a",
+                    "reference": "d2bef940268e4dc5f0f050e80458169a7267813a",
+                    "shasum": ""
+                },
+                "require": {
+                    "doctrine/common": ">=2.2,<2.5-dev",
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "doctrine/common": ">=2.4.0-RC3",
+                    "doctrine/dbal": ">=2.4.0-RC1",
+                    "doctrine/mongodb": ">=1.0.3",
+                    "doctrine/mongodb-odm": ">=1.0.0-BETA9",
+                    "doctrine/orm": ">=2.4.0-RC1",
+                    "symfony/yaml": "2.3.1"
+                },
+                "suggest": {
+                    "doctrine/dbal": ">=2.3.2",
+                    "doctrine/mongodb": ">=1.0.1",
+                    "doctrine/mongodb-odm": ">=1.0.0-BETA7",
+                    "doctrine/orm": ">=2.3.2"
+                },
+                "time": "2013-11-09 21:23:13",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo\\": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail.com"
+                    },
+                    {
+                        "name": "Gustavo Falco",
+                        "email": "comfortablynumb84@gmail.com"
+                    },
+                    {
+                        "name": "David Buchmann",
+                        "email": "david@liip.ch"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "blameable",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree",
+                    "uploadable"
+                ],
+                "support": {
+                    "email": "gediminas.morkevicius@gmail.com",
+                    "wiki": "https://github.com/l3pp4rd/DoctrineExtensions/tree/master/doc",
+                    "issues": "https://github.com/l3pp4rd/DoctrineExtensions/issues",
+                    "source": "https://github.com/l3pp4rd/DoctrineExtensions"
+                }
+            },
+            "v2.3.9": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "v2.3.9",
+                "version_normalized": "2.3.9.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "35adcaae1a3f50d0d5b73aa50ed8fd28ee35ce54"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/35adcaae1a3f50d0d5b73aa50ed8fd28ee35ce54",
+                    "reference": "35adcaae1a3f50d0d5b73aa50ed8fd28ee35ce54",
+                    "shasum": ""
+                },
+                "require": {
+                    "doctrine/common": ">=2.2,<2.5-dev",
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "doctrine/common": ">=2.4.0-RC3",
+                    "doctrine/dbal": ">=2.4.0-RC1",
+                    "doctrine/mongodb": ">=1.0.3",
+                    "doctrine/mongodb-odm": ">=1.0.0-BETA9",
+                    "doctrine/orm": ">=2.4.0-RC1",
+                    "symfony/yaml": "2.3.1"
+                },
+                "suggest": {
+                    "doctrine/dbal": ">=2.3.2",
+                    "doctrine/mongodb": ">=1.0.1",
+                    "doctrine/mongodb-odm": ">=1.0.0-BETA7",
+                    "doctrine/orm": ">=2.3.2"
+                },
+                "time": "2014-01-12 16:34:06",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo\\": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail.com"
+                    },
+                    {
+                        "name": "Gustavo Falco",
+                        "email": "comfortablynumb84@gmail.com"
+                    },
+                    {
+                        "name": "David Buchmann",
+                        "email": "david@liip.ch"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "blameable",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree",
+                    "uploadable"
+                ],
+                "support": {
+                    "email": "gediminas.morkevicius@gmail.com",
+                    "wiki": "https://github.com/l3pp4rd/DoctrineExtensions/tree/master/doc",
+                    "issues": "https://github.com/l3pp4rd/DoctrineExtensions/issues",
+                    "source": "https://github.com/l3pp4rd/DoctrineExtensions"
+                }
+            },
+            "v2.4.0": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "v2.4.0",
+                "version_normalized": "2.4.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "08af8a990b683958651bc60f469ed95a35dbef93"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/08af8a990b683958651bc60f469ed95a35dbef93",
+                    "reference": "08af8a990b683958651bc60f469ed95a35dbef93",
+                    "shasum": ""
+                },
+                "require": {
+                    "behat/transliterator": "~1.0",
+                    "doctrine/common": "~2.4",
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "doctrine/common": ">=2.5.0-BETA1",
+                    "doctrine/mongodb-odm": ">=1.0.0-BETA12",
+                    "doctrine/orm": ">=2.5.0-RC1",
+                    "phpunit/phpunit": "~4.4",
+                    "phpunit/phpunit-mock-objects": "~2.3",
+                    "symfony/yaml": "~2.6"
+                },
+                "suggest": {
+                    "doctrine/mongodb-odm": "to use the extensions with the MongoDB ODM",
+                    "doctrine/orm": "to use the extensions with the ORM"
+                },
+                "time": "2015-03-26 20:58:50",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo\\": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail.com"
+                    },
+                    {
+                        "name": "Gustavo Falco",
+                        "email": "comfortablynumb84@gmail.com"
+                    },
+                    {
+                        "name": "David Buchmann",
+                        "email": "david@liip.ch"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "blameable",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree",
+                    "uploadable"
+                ],
+                "support": {
+                    "email": "gediminas.morkevicius@gmail.com",
+                    "wiki": "https://github.com/Atlantic18/DoctrineExtensions/tree/master/doc",
+                    "source": "https://github.com/aminin/DoctrineExtensions/tree/v2.4.0"
+                }
+            },
+            "v2.4.1": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "v2.4.1",
+                "version_normalized": "2.4.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "78a1700bf9cda6db99c556cacc69e38379de8519"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/78a1700bf9cda6db99c556cacc69e38379de8519",
+                    "reference": "78a1700bf9cda6db99c556cacc69e38379de8519",
+                    "shasum": ""
+                },
+                "require": {
+                    "behat/transliterator": "~1.0",
+                    "doctrine/common": "~2.4",
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "doctrine/common": ">=2.5.0-BETA1",
+                    "doctrine/mongodb-odm": ">=1.0.0-BETA12",
+                    "doctrine/orm": ">=2.5.0-RC1",
+                    "phpunit/phpunit": "~4.4",
+                    "phpunit/phpunit-mock-objects": "~2.3",
+                    "symfony/yaml": "~2.6"
+                },
+                "suggest": {
+                    "doctrine/mongodb-odm": "to use the extensions with the MongoDB ODM",
+                    "doctrine/orm": "to use the extensions with the ORM"
+                },
+                "time": "2015-05-01 08:28:05",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.4.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo\\": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail.com"
+                    },
+                    {
+                        "name": "Gustavo Falco",
+                        "email": "comfortablynumb84@gmail.com"
+                    },
+                    {
+                        "name": "David Buchmann",
+                        "email": "david@liip.ch"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "blameable",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree",
+                    "uploadable"
+                ],
+                "support": {
+                    "email": "gediminas.morkevicius@gmail.com",
+                    "wiki": "https://github.com/Atlantic18/DoctrineExtensions/tree/master/doc",
+                    "source": "https://github.com/aminin/DoctrineExtensions/tree/v2.4.1"
+                }
+            },
+            "v2.4.10": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "v2.4.10",
+                "version_normalized": "2.4.10.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "7e7fc55fa3fad79031727fbc7d8e418b641be875"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/7e7fc55fa3fad79031727fbc7d8e418b641be875",
+                    "reference": "7e7fc55fa3fad79031727fbc7d8e418b641be875",
+                    "shasum": ""
+                },
+                "require": {
+                    "behat/transliterator": "~1.0",
+                    "doctrine/common": "~2.4",
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "doctrine/common": ">=2.5.0",
+                    "doctrine/mongodb-odm": ">=1.0.2",
+                    "doctrine/orm": ">=2.5.0",
+                    "phpunit/phpunit": "~4.4",
+                    "phpunit/phpunit-mock-objects": "~2.3",
+                    "symfony/yaml": "~2.6"
+                },
+                "suggest": {
+                    "doctrine/mongodb-odm": "to use the extensions with the MongoDB ODM",
+                    "doctrine/orm": "to use the extensions with the ORM"
+                },
+                "time": "2015-12-18 20:34:21",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.4.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo\\": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail.com"
+                    },
+                    {
+                        "name": "Gustavo Falco",
+                        "email": "comfortablynumb84@gmail.com"
+                    },
+                    {
+                        "name": "David Buchmann",
+                        "email": "david@liip.ch"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "blameable",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree",
+                    "uploadable"
+                ],
+                "support": {
+                    "email": "gediminas.morkevicius@gmail.com",
+                    "wiki": "https://github.com/Atlantic18/DoctrineExtensions/tree/master/doc",
+                    "source": "https://github.com/aminin/DoctrineExtensions/tree/v2.4.10"
+                }
+            },
+            "v2.4.11": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "v2.4.11",
+                "version_normalized": "2.4.11.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "20745a15ecedcdeb55653df00db98b50f6a1afdb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/20745a15ecedcdeb55653df00db98b50f6a1afdb",
+                    "reference": "20745a15ecedcdeb55653df00db98b50f6a1afdb",
+                    "shasum": ""
+                },
+                "require": {
+                    "behat/transliterator": "~1.0",
+                    "doctrine/common": "~2.4",
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "doctrine/common": ">=2.5.0",
+                    "doctrine/mongodb-odm": ">=1.0.2",
+                    "doctrine/orm": ">=2.5.0",
+                    "phpunit/phpunit": "~4.4",
+                    "phpunit/phpunit-mock-objects": "~2.3",
+                    "symfony/yaml": "~2.6"
+                },
+                "suggest": {
+                    "doctrine/mongodb-odm": "to use the extensions with the MongoDB ODM",
+                    "doctrine/orm": "to use the extensions with the ORM"
+                },
+                "time": "2016-01-27 17:42:38",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.4.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo\\": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail.com"
+                    },
+                    {
+                        "name": "Gustavo Falco",
+                        "email": "comfortablynumb84@gmail.com"
+                    },
+                    {
+                        "name": "David Buchmann",
+                        "email": "david@liip.ch"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "blameable",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree",
+                    "uploadable"
+                ],
+                "support": {
+                    "email": "gediminas.morkevicius@gmail.com",
+                    "wiki": "https://github.com/Atlantic18/DoctrineExtensions/tree/master/doc",
+                    "source": "https://github.com/aminin/DoctrineExtensions/tree/v2.4.11"
+                }
+            },
+            "v2.4.12": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "v2.4.12",
+                "version_normalized": "2.4.12.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "2527d8f93779458e097447b5f92132bc65e672f4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/2527d8f93779458e097447b5f92132bc65e672f4",
+                    "reference": "2527d8f93779458e097447b5f92132bc65e672f4",
+                    "shasum": ""
+                },
+                "require": {
+                    "behat/transliterator": "~1.0",
+                    "doctrine/common": "~2.4",
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "doctrine/common": ">=2.5.0",
+                    "doctrine/mongodb-odm": ">=1.0.2",
+                    "doctrine/orm": ">=2.5.0",
+                    "phpunit/phpunit": "~4.4",
+                    "phpunit/phpunit-mock-objects": "~2.3",
+                    "symfony/yaml": "~2.6"
+                },
+                "suggest": {
+                    "doctrine/mongodb-odm": "to use the extensions with the MongoDB ODM",
+                    "doctrine/orm": "to use the extensions with the ORM"
+                },
+                "time": "2016-01-28 10:00:33",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.4.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo\\": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail.com"
+                    },
+                    {
+                        "name": "Gustavo Falco",
+                        "email": "comfortablynumb84@gmail.com"
+                    },
+                    {
+                        "name": "David Buchmann",
+                        "email": "david@liip.ch"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "blameable",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree",
+                    "uploadable"
+                ],
+                "support": {
+                    "email": "gediminas.morkevicius@gmail.com",
+                    "wiki": "https://github.com/Atlantic18/DoctrineExtensions/tree/master/doc",
+                    "source": "https://github.com/aminin/DoctrineExtensions/tree/v2.4.12"
+                }
+            },
+            "v2.4.13": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "v2.4.13",
+                "version_normalized": "2.4.13.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "5f4b6c848f0d6834a434a62a09a0935d147082e1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/5f4b6c848f0d6834a434a62a09a0935d147082e1",
+                    "reference": "5f4b6c848f0d6834a434a62a09a0935d147082e1",
+                    "shasum": ""
+                },
+                "require": {
+                    "behat/transliterator": "~1.0",
+                    "doctrine/common": "~2.4",
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "doctrine/common": ">=2.5.0",
+                    "doctrine/mongodb-odm": ">=1.0.2",
+                    "doctrine/orm": ">=2.5.0",
+                    "phpunit/phpunit": "~4.4",
+                    "phpunit/phpunit-mock-objects": "~2.3",
+                    "symfony/yaml": "~2.6"
+                },
+                "suggest": {
+                    "doctrine/mongodb-odm": "to use the extensions with the MongoDB ODM",
+                    "doctrine/orm": "to use the extensions with the ORM"
+                },
+                "time": "2016-02-18 15:33:43",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.4.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo\\": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail.com"
+                    },
+                    {
+                        "name": "Gustavo Falco",
+                        "email": "comfortablynumb84@gmail.com"
+                    },
+                    {
+                        "name": "David Buchmann",
+                        "email": "david@liip.ch"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "blameable",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree",
+                    "uploadable"
+                ],
+                "support": {
+                    "email": "gediminas.morkevicius@gmail.com",
+                    "wiki": "https://github.com/Atlantic18/DoctrineExtensions/tree/master/doc",
+                    "source": "https://github.com/aminin/DoctrineExtensions/tree/v2.4.13"
+                }
+            },
+            "v2.4.14": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "v2.4.14",
+                "version_normalized": "2.4.14.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "8f172af78138ee3ea12e87be431dec3da0c2f4a9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/8f172af78138ee3ea12e87be431dec3da0c2f4a9",
+                    "reference": "8f172af78138ee3ea12e87be431dec3da0c2f4a9",
+                    "shasum": ""
+                },
+                "require": {
+                    "behat/transliterator": "~1.0",
+                    "doctrine/common": "~2.4",
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "doctrine/common": ">=2.5.0",
+                    "doctrine/mongodb-odm": ">=1.0.2",
+                    "doctrine/orm": ">=2.5.0",
+                    "phpunit/phpunit": "~4.4",
+                    "phpunit/phpunit-mock-objects": "~2.3",
+                    "symfony/yaml": "~2.6"
+                },
+                "suggest": {
+                    "doctrine/mongodb-odm": "to use the extensions with the MongoDB ODM",
+                    "doctrine/orm": "to use the extensions with the ORM"
+                },
+                "time": "2016-07-08 05:48:13",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.4.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo\\": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail.com"
+                    },
+                    {
+                        "name": "Gustavo Falco",
+                        "email": "comfortablynumb84@gmail.com"
+                    },
+                    {
+                        "name": "David Buchmann",
+                        "email": "david@liip.ch"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "blameable",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree",
+                    "uploadable"
+                ],
+                "support": {
+                    "email": "gediminas.morkevicius@gmail.com",
+                    "wiki": "https://github.com/Atlantic18/DoctrineExtensions/tree/master/doc",
+                    "source": "https://github.com/aminin/DoctrineExtensions/tree/v2.4.14"
+                }
+            },
+            "v2.4.2": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "v2.4.2",
+                "version_normalized": "2.4.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "a6f1d468fea2c4c48749bec43fcb9e13088e3889"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/a6f1d468fea2c4c48749bec43fcb9e13088e3889",
+                    "reference": "a6f1d468fea2c4c48749bec43fcb9e13088e3889",
+                    "shasum": ""
+                },
+                "require": {
+                    "behat/transliterator": "~1.0",
+                    "doctrine/common": "~2.4",
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "doctrine/common": ">=2.5.0",
+                    "doctrine/mongodb-odm": ">=1.0.0-BETA13",
+                    "doctrine/orm": ">=2.5.0",
+                    "phpunit/phpunit": "~4.4",
+                    "phpunit/phpunit-mock-objects": "~2.3",
+                    "symfony/yaml": "~2.6"
+                },
+                "suggest": {
+                    "doctrine/mongodb-odm": "to use the extensions with the MongoDB ODM",
+                    "doctrine/orm": "to use the extensions with the ORM"
+                },
+                "time": "2015-06-18 17:24:25",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.4.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo\\": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail.com"
+                    },
+                    {
+                        "name": "Gustavo Falco",
+                        "email": "comfortablynumb84@gmail.com"
+                    },
+                    {
+                        "name": "David Buchmann",
+                        "email": "david@liip.ch"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "blameable",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree",
+                    "uploadable"
+                ],
+                "support": {
+                    "email": "gediminas.morkevicius@gmail.com",
+                    "wiki": "https://github.com/Atlantic18/DoctrineExtensions/tree/master/doc",
+                    "source": "https://github.com/aminin/DoctrineExtensions/tree/v2.4.2"
+                }
+            },
+            "v2.4.3": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "v2.4.3",
+                "version_normalized": "2.4.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "fd7b5682f3e2c51660ca8964745eec3ed83c6654"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/fd7b5682f3e2c51660ca8964745eec3ed83c6654",
+                    "reference": "fd7b5682f3e2c51660ca8964745eec3ed83c6654",
+                    "shasum": ""
+                },
+                "require": {
+                    "behat/transliterator": "~1.0",
+                    "doctrine/common": "~2.4",
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "doctrine/common": ">=2.5.0",
+                    "doctrine/mongodb-odm": "dev-master",
+                    "doctrine/orm": ">=2.5.0",
+                    "phpunit/phpunit": "~4.4",
+                    "phpunit/phpunit-mock-objects": "~2.3",
+                    "symfony/yaml": "~2.6"
+                },
+                "suggest": {
+                    "doctrine/mongodb-odm": "to use the extensions with the MongoDB ODM",
+                    "doctrine/orm": "to use the extensions with the ORM"
+                },
+                "time": "2015-07-07 08:17:38",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.4.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo\\": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail.com"
+                    },
+                    {
+                        "name": "Gustavo Falco",
+                        "email": "comfortablynumb84@gmail.com"
+                    },
+                    {
+                        "name": "David Buchmann",
+                        "email": "david@liip.ch"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "blameable",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree",
+                    "uploadable"
+                ],
+                "support": {
+                    "email": "gediminas.morkevicius@gmail.com",
+                    "wiki": "https://github.com/Atlantic18/DoctrineExtensions/tree/master/doc",
+                    "source": "https://github.com/aminin/DoctrineExtensions/tree/v2.4.3"
+                }
+            },
+            "v2.4.4": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "v2.4.4",
+                "version_normalized": "2.4.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "60a8bda651a63e110de6bc0bcb0baf9e7690c051"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/60a8bda651a63e110de6bc0bcb0baf9e7690c051",
+                    "reference": "60a8bda651a63e110de6bc0bcb0baf9e7690c051",
+                    "shasum": ""
+                },
+                "require": {
+                    "behat/transliterator": "~1.0",
+                    "doctrine/common": "~2.4",
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "doctrine/common": ">=2.5.0",
+                    "doctrine/mongodb-odm": "dev-master",
+                    "doctrine/orm": ">=2.5.0",
+                    "phpunit/phpunit": "~4.4",
+                    "phpunit/phpunit-mock-objects": "~2.3",
+                    "symfony/yaml": "~2.6"
+                },
+                "suggest": {
+                    "doctrine/mongodb-odm": "to use the extensions with the MongoDB ODM",
+                    "doctrine/orm": "to use the extensions with the ORM"
+                },
+                "time": "2015-07-30 20:25:14",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.4.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo\\": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail.com"
+                    },
+                    {
+                        "name": "Gustavo Falco",
+                        "email": "comfortablynumb84@gmail.com"
+                    },
+                    {
+                        "name": "David Buchmann",
+                        "email": "david@liip.ch"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "blameable",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree",
+                    "uploadable"
+                ],
+                "support": {
+                    "email": "gediminas.morkevicius@gmail.com",
+                    "wiki": "https://github.com/Atlantic18/DoctrineExtensions/tree/master/doc",
+                    "source": "https://github.com/aminin/DoctrineExtensions/tree/v2.4.4"
+                }
+            },
+            "v2.4.5": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "v2.4.5",
+                "version_normalized": "2.4.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "12da6e0c6ffbc7702d9f83ff12f3649a0bc5b600"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/12da6e0c6ffbc7702d9f83ff12f3649a0bc5b600",
+                    "reference": "12da6e0c6ffbc7702d9f83ff12f3649a0bc5b600",
+                    "shasum": ""
+                },
+                "require": {
+                    "behat/transliterator": "~1.0",
+                    "doctrine/common": "~2.4",
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "doctrine/common": ">=2.5.0",
+                    "doctrine/mongodb-odm": "dev-master",
+                    "doctrine/orm": ">=2.5.0",
+                    "phpunit/phpunit": "~4.4",
+                    "phpunit/phpunit-mock-objects": "~2.3",
+                    "symfony/yaml": "~2.6"
+                },
+                "suggest": {
+                    "doctrine/mongodb-odm": "to use the extensions with the MongoDB ODM",
+                    "doctrine/orm": "to use the extensions with the ORM"
+                },
+                "time": "2015-08-11 16:33:57",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.4.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo\\": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail.com"
+                    },
+                    {
+                        "name": "Gustavo Falco",
+                        "email": "comfortablynumb84@gmail.com"
+                    },
+                    {
+                        "name": "David Buchmann",
+                        "email": "david@liip.ch"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "blameable",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree",
+                    "uploadable"
+                ],
+                "support": {
+                    "email": "gediminas.morkevicius@gmail.com",
+                    "wiki": "https://github.com/Atlantic18/DoctrineExtensions/tree/master/doc",
+                    "source": "https://github.com/aminin/DoctrineExtensions/tree/v2.4.5"
+                }
+            },
+            "v2.4.6": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "v2.4.6",
+                "version_normalized": "2.4.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "5d330411e27ab0ced67e1e5383ccae975c23c17d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/5d330411e27ab0ced67e1e5383ccae975c23c17d",
+                    "reference": "5d330411e27ab0ced67e1e5383ccae975c23c17d",
+                    "shasum": ""
+                },
+                "require": {
+                    "behat/transliterator": "~1.0",
+                    "doctrine/common": "~2.4",
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "doctrine/common": ">=2.5.0",
+                    "doctrine/mongodb-odm": "dev-master",
+                    "doctrine/orm": ">=2.5.0",
+                    "phpunit/phpunit": "~4.4",
+                    "phpunit/phpunit-mock-objects": "~2.3",
+                    "symfony/yaml": "~2.6"
+                },
+                "suggest": {
+                    "doctrine/mongodb-odm": "to use the extensions with the MongoDB ODM",
+                    "doctrine/orm": "to use the extensions with the ORM"
+                },
+                "time": "2015-08-28 11:07:14",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.4.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo\\": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail.com"
+                    },
+                    {
+                        "name": "Gustavo Falco",
+                        "email": "comfortablynumb84@gmail.com"
+                    },
+                    {
+                        "name": "David Buchmann",
+                        "email": "david@liip.ch"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "blameable",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree",
+                    "uploadable"
+                ],
+                "support": {
+                    "email": "gediminas.morkevicius@gmail.com",
+                    "wiki": "https://github.com/Atlantic18/DoctrineExtensions/tree/master/doc",
+                    "source": "https://github.com/aminin/DoctrineExtensions/tree/v2.4.6"
+                }
+            },
+            "v2.4.7": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "v2.4.7",
+                "version_normalized": "2.4.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "1a86ba1c7426238b4f765089e0af51174a38af7f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/1a86ba1c7426238b4f765089e0af51174a38af7f",
+                    "reference": "1a86ba1c7426238b4f765089e0af51174a38af7f",
+                    "shasum": ""
+                },
+                "require": {
+                    "behat/transliterator": "~1.0",
+                    "doctrine/common": "~2.4",
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "doctrine/common": ">=2.5.0",
+                    "doctrine/mongodb-odm": ">=1.0.2",
+                    "doctrine/orm": ">=2.5.0",
+                    "phpunit/phpunit": "~4.4",
+                    "phpunit/phpunit-mock-objects": "~2.3",
+                    "symfony/yaml": "~2.6"
+                },
+                "suggest": {
+                    "doctrine/mongodb-odm": "to use the extensions with the MongoDB ODM",
+                    "doctrine/orm": "to use the extensions with the ORM"
+                },
+                "time": "2015-09-28 16:39:27",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.4.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo\\": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail.com"
+                    },
+                    {
+                        "name": "Gustavo Falco",
+                        "email": "comfortablynumb84@gmail.com"
+                    },
+                    {
+                        "name": "David Buchmann",
+                        "email": "david@liip.ch"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "blameable",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree",
+                    "uploadable"
+                ],
+                "support": {
+                    "email": "gediminas.morkevicius@gmail.com",
+                    "wiki": "https://github.com/Atlantic18/DoctrineExtensions/tree/master/doc",
+                    "source": "https://github.com/aminin/DoctrineExtensions/tree/v2.4.7"
+                }
+            },
+            "v2.4.8": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "v2.4.8",
+                "version_normalized": "2.4.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "096ed89496f8adab9a57aaf0e3624c3407f64d4f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/096ed89496f8adab9a57aaf0e3624c3407f64d4f",
+                    "reference": "096ed89496f8adab9a57aaf0e3624c3407f64d4f",
+                    "shasum": ""
+                },
+                "require": {
+                    "behat/transliterator": "~1.0",
+                    "doctrine/common": "~2.4",
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "doctrine/common": ">=2.5.0",
+                    "doctrine/mongodb-odm": ">=1.0.2",
+                    "doctrine/orm": ">=2.5.0",
+                    "phpunit/phpunit": "~4.4",
+                    "phpunit/phpunit-mock-objects": "~2.3",
+                    "symfony/yaml": "~2.6"
+                },
+                "suggest": {
+                    "doctrine/mongodb-odm": "to use the extensions with the MongoDB ODM",
+                    "doctrine/orm": "to use the extensions with the ORM"
+                },
+                "time": "2015-11-25 05:46:30",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.4.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo\\": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail.com"
+                    },
+                    {
+                        "name": "Gustavo Falco",
+                        "email": "comfortablynumb84@gmail.com"
+                    },
+                    {
+                        "name": "David Buchmann",
+                        "email": "david@liip.ch"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "blameable",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree",
+                    "uploadable"
+                ],
+                "support": {
+                    "email": "gediminas.morkevicius@gmail.com",
+                    "wiki": "https://github.com/Atlantic18/DoctrineExtensions/tree/master/doc",
+                    "source": "https://github.com/aminin/DoctrineExtensions/tree/v2.4.8"
+                }
+            },
+            "v2.4.9": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "v2.4.9",
+                "version_normalized": "2.4.9.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "04ac4d1cdbdc610816562344c7ed74aecf2cd1ca"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/04ac4d1cdbdc610816562344c7ed74aecf2cd1ca",
+                    "reference": "04ac4d1cdbdc610816562344c7ed74aecf2cd1ca",
+                    "shasum": ""
+                },
+                "require": {
+                    "behat/transliterator": "~1.0",
+                    "doctrine/common": "~2.4",
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "doctrine/common": ">=2.5.0",
+                    "doctrine/mongodb-odm": ">=1.0.2",
+                    "doctrine/orm": ">=2.5.0",
+                    "phpunit/phpunit": "~4.4",
+                    "phpunit/phpunit-mock-objects": "~2.3",
+                    "symfony/yaml": "~2.6"
+                },
+                "suggest": {
+                    "doctrine/mongodb-odm": "to use the extensions with the MongoDB ODM",
+                    "doctrine/orm": "to use the extensions with the ORM"
+                },
+                "time": "2015-11-30 18:58:48",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.4.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo\\": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail.com"
+                    },
+                    {
+                        "name": "Gustavo Falco",
+                        "email": "comfortablynumb84@gmail.com"
+                    },
+                    {
+                        "name": "David Buchmann",
+                        "email": "david@liip.ch"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "blameable",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree",
+                    "uploadable"
+                ],
+                "support": {
+                    "email": "gediminas.morkevicius@gmail.com",
+                    "wiki": "https://github.com/Atlantic18/DoctrineExtensions/tree/master/doc",
+                    "source": "https://github.com/aminin/DoctrineExtensions/tree/v2.4.9"
+                }
+            },
+            "2.4.x-dev": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "2.4.x-dev",
+                "version_normalized": "2.4.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "8f172af78138ee3ea12e87be431dec3da0c2f4a9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/8f172af78138ee3ea12e87be431dec3da0c2f4a9",
+                    "reference": "8f172af78138ee3ea12e87be431dec3da0c2f4a9",
+                    "shasum": ""
+                },
+                "require": {
+                    "behat/transliterator": "~1.0",
+                    "doctrine/common": "~2.4",
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "doctrine/common": ">=2.5.0",
+                    "doctrine/mongodb-odm": ">=1.0.2",
+                    "doctrine/orm": ">=2.5.0",
+                    "phpunit/phpunit": "~4.4",
+                    "phpunit/phpunit-mock-objects": "~2.3",
+                    "symfony/yaml": "~2.6"
+                },
+                "suggest": {
+                    "doctrine/mongodb-odm": "to use the extensions with the MongoDB ODM",
+                    "doctrine/orm": "to use the extensions with the ORM"
+                },
+                "time": "2016-07-08 05:48:13",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.4.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo\\": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail.com"
+                    },
+                    {
+                        "name": "Gustavo Falco",
+                        "email": "comfortablynumb84@gmail.com"
+                    },
+                    {
+                        "name": "David Buchmann",
+                        "email": "david@liip.ch"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "blameable",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree",
+                    "uploadable"
+                ],
+                "support": {
+                    "email": "gediminas.morkevicius@gmail.com",
+                    "wiki": "https://github.com/Atlantic18/DoctrineExtensions/tree/master/doc",
+                    "source": "https://github.com/aminin/DoctrineExtensions/tree/v2.4.14"
+                }
+            },
+            "dev-master": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "7353744d008a44b342bb33e466f88d280ba6b933"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/7353744d008a44b342bb33e466f88d280ba6b933",
+                    "reference": "7353744d008a44b342bb33e466f88d280ba6b933",
+                    "shasum": ""
+                },
+                "require": {
+                    "behat/transliterator": "~1.0",
+                    "doctrine/common": "~2.4",
+                    "php": ">=5.4"
+                },
+                "require-dev": {
+                    "doctrine/common": ">=2.5.0",
+                    "doctrine/mongodb-odm": "~1.0",
+                    "doctrine/orm": ">=2.5.0",
+                    "phpunit/phpunit": "~4.8",
+                    "symfony/yaml": "~2.6|~3.0"
+                },
+                "suggest": {
+                    "doctrine/mongodb-odm": "to use the extensions with the MongoDB ODM",
+                    "doctrine/orm": "to use the extensions with the ORM"
+                },
+                "time": "2016-07-03 11:57:58",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo\\": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail.com"
+                    },
+                    {
+                        "name": "Gustavo Falco",
+                        "email": "comfortablynumb84@gmail.com"
+                    },
+                    {
+                        "name": "David Buchmann",
+                        "email": "david@liip.ch"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "blameable",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree",
+                    "uploadable"
+                ],
+                "support": {
+                    "email": "gediminas.morkevicius@gmail.com",
+                    "wiki": "https://github.com/Atlantic18/DoctrineExtensions/tree/master/doc",
+                    "source": "https://github.com/aminin/DoctrineExtensions/tree/master"
+                }
+            },
+            "dev-phpunit": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "dev-phpunit",
+                "version_normalized": "dev-phpunit",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "bd911ee85c47058b7a832effa4f646928701faef"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/bd911ee85c47058b7a832effa4f646928701faef",
+                    "reference": "bd911ee85c47058b7a832effa4f646928701faef",
+                    "shasum": ""
+                },
+                "require": {
+                    "behat/transliterator": "~1.0",
+                    "doctrine/common": "~2.4",
+                    "php": ">=5.4"
+                },
+                "replace": {
+                    "ext-mongo": "1.6.12"
+                },
+                "require-dev": {
+                    "alcaeus/mongo-php-adapter": "~1.0.4",
+                    "doctrine/common": ">=2.5.0",
+                    "doctrine/mongodb-odm": "~1.0",
+                    "doctrine/orm": ">=2.5.0",
+                    "phpunit/phpunit": "*",
+                    "symfony/yaml": "~2.6|~3.0"
+                },
+                "suggest": {
+                    "doctrine/mongodb-odm": "to use the extensions with the MongoDB ODM",
+                    "doctrine/orm": "to use the extensions with the ORM"
+                },
+                "time": "2016-07-06 10:12:13",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo\\": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail.com"
+                    },
+                    {
+                        "name": "Gustavo Falco",
+                        "email": "comfortablynumb84@gmail.com"
+                    },
+                    {
+                        "name": "David Buchmann",
+                        "email": "david@liip.ch"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "blameable",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree",
+                    "uploadable"
+                ],
+                "support": {
+                    "email": "gediminas.morkevicius@gmail.com",
+                    "wiki": "https://github.com/Atlantic18/DoctrineExtensions/tree/master/doc",
+                    "source": "https://github.com/aminin/DoctrineExtensions/tree/phpunit"
+                }
+            },
+            "dev-test-1064": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "dev-test-1064",
+                "version_normalized": "dev-test-1064",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "6677744777bbf6ee25425e5dfe6e759c98795fa0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/6677744777bbf6ee25425e5dfe6e759c98795fa0",
+                    "reference": "6677744777bbf6ee25425e5dfe6e759c98795fa0",
+                    "shasum": ""
+                },
+                "require": {
+                    "behat/transliterator": "~1.0",
+                    "doctrine/common": "~2.4",
+                    "php": ">=5.4"
+                },
+                "require-dev": {
+                    "doctrine/common": ">=2.5.0",
+                    "doctrine/mongodb-odm": ">=1.0.2",
+                    "doctrine/orm": ">=2.5.0",
+                    "phpunit/phpunit": "*",
+                    "symfony/yaml": "~2.6|~3.0"
+                },
+                "suggest": {
+                    "doctrine/mongodb-odm": "to use the extensions with the MongoDB ODM",
+                    "doctrine/orm": "to use the extensions with the ORM"
+                },
+                "time": "2016-05-07 16:07:04",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo\\": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail.com"
+                    },
+                    {
+                        "name": "Gustavo Falco",
+                        "email": "comfortablynumb84@gmail.com"
+                    },
+                    {
+                        "name": "David Buchmann",
+                        "email": "david@liip.ch"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "blameable",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree",
+                    "uploadable"
+                ],
+                "support": {
+                    "email": "gediminas.morkevicius@gmail.com",
+                    "wiki": "https://github.com/Atlantic18/DoctrineExtensions/tree/master/doc",
+                    "source": "https://github.com/aminin/DoctrineExtensions/tree/test-1064"
+                }
+            },
+            "dev-trans-inheritance": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "dev-trans-inheritance",
+                "version_normalized": "dev-trans-inheritance",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "705ca7fb55e054412eba6c2a3a84009a8a1e2b85"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/705ca7fb55e054412eba6c2a3a84009a8a1e2b85",
+                    "reference": "705ca7fb55e054412eba6c2a3a84009a8a1e2b85",
+                    "shasum": ""
+                },
+                "require": {
+                    "behat/transliterator": "~1.0",
+                    "doctrine/common": "~2.4",
+                    "php": ">=5.4"
+                },
+                "require-dev": {
+                    "doctrine/common": ">=2.5.0",
+                    "doctrine/mongodb-odm": ">=1.0.2",
+                    "doctrine/orm": ">=2.5.0",
+                    "phpunit/phpunit": "~4.4",
+                    "phpunit/phpunit-mock-objects": "~2.3",
+                    "symfony/yaml": "~2.6"
+                },
+                "suggest": {
+                    "doctrine/mongodb-odm": "to use the extensions with the MongoDB ODM",
+                    "doctrine/orm": "to use the extensions with the ORM"
+                },
+                "time": "2016-02-02 16:07:31",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.4.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo\\": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail.com"
+                    },
+                    {
+                        "name": "Gustavo Falco",
+                        "email": "comfortablynumb84@gmail.com"
+                    },
+                    {
+                        "name": "David Buchmann",
+                        "email": "david@liip.ch"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "blameable",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree",
+                    "uploadable"
+                ],
+                "support": {
+                    "email": "gediminas.morkevicius@gmail.com",
+                    "wiki": "https://github.com/Atlantic18/DoctrineExtensions/tree/master/doc",
+                    "source": "https://github.com/aminin/DoctrineExtensions/tree/trans-inheritance"
+                }
+            },
+            "dev-travis-mongo": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "dev-travis-mongo",
+                "version_normalized": "dev-travis-mongo",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "52341fa60c0a093fd4789cb0c7d6287b8fd82820"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/52341fa60c0a093fd4789cb0c7d6287b8fd82820",
+                    "reference": "52341fa60c0a093fd4789cb0c7d6287b8fd82820",
+                    "shasum": ""
+                },
+                "require": {
+                    "behat/transliterator": "~1.0",
+                    "doctrine/common": "~2.4",
+                    "php": ">=5.4"
+                },
+                "require-dev": {
+                    "doctrine/common": ">=2.5.0",
+                    "doctrine/mongodb-odm": "~1.0",
+                    "doctrine/orm": ">=2.5.0",
+                    "phpunit/phpunit": "~4.8",
+                    "symfony/yaml": "~2.6|~3.0"
+                },
+                "suggest": {
+                    "doctrine/mongodb-odm": "to use the extensions with the MongoDB ODM",
+                    "doctrine/orm": "to use the extensions with the ORM"
+                },
+                "time": "2016-07-03 11:50:02",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo\\": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail.com"
+                    },
+                    {
+                        "name": "Gustavo Falco",
+                        "email": "comfortablynumb84@gmail.com"
+                    },
+                    {
+                        "name": "David Buchmann",
+                        "email": "david@liip.ch"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "blameable",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree",
+                    "uploadable"
+                ],
+                "support": {
+                    "email": "gediminas.morkevicius@gmail.com",
+                    "wiki": "https://github.com/Atlantic18/DoctrineExtensions/tree/master/doc",
+                    "source": "https://github.com/aminin/DoctrineExtensions/tree/travis-mongo"
+                }
+            },
+            "dev-wip-v2.4.0": {
+                "name": "gedmo/doctrine-extensions",
+                "version": "dev-wip-v2.4.0",
+                "version_normalized": "dev-wip-v2.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/DoctrineExtensions.git",
+                    "reference": "17ca0eac8f1de03f30220cf9c75e90b4e061995a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/DoctrineExtensions/zipball/17ca0eac8f1de03f30220cf9c75e90b4e061995a",
+                    "reference": "17ca0eac8f1de03f30220cf9c75e90b4e061995a",
+                    "shasum": ""
+                },
+                "require": {
+                    "behat/transliterator": "~1.0",
+                    "doctrine/common": "~2.4",
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "doctrine/mongodb-odm": "~1.0-BETA10",
+                    "doctrine/orm": "~2.4",
+                    "phpunit/phpunit": "~4.0",
+                    "symfony/yaml": "~2.3"
+                },
+                "suggest": {
+                    "doctrine/mongodb-odm": "to use the extensions with the MongoDB ODM",
+                    "doctrine/orm": "to use the extensions with the ORM"
+                },
+                "time": "2014-10-06 13:40:13",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.4.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Gedmo\\": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Gediminas Morkevicius",
+                        "email": "gediminas.morkevicius@gmail.com"
+                    },
+                    {
+                        "name": "Gustavo Falco",
+                        "email": "comfortablynumb84@gmail.com"
+                    },
+                    {
+                        "name": "David Buchmann",
+                        "email": "david@liip.ch"
+                    }
+                ],
+                "description": "Doctrine2 behavioral extensions",
+                "homepage": "http://gediminasm.org/",
+                "keywords": [
+                    "behaviors",
+                    "blameable",
+                    "doctrine2",
+                    "extensions",
+                    "gedmo",
+                    "loggable",
+                    "nestedset",
+                    "sluggable",
+                    "sortable",
+                    "timestampable",
+                    "translatable",
+                    "tree",
+                    "uploadable"
+                ],
+                "support": {
+                    "email": "gediminas.morkevicius@gmail.com",
+                    "wiki": "https://github.com/Atlantic18/DoctrineExtensions/tree/master/doc",
+                    "source": "https://github.com/aminin/DoctrineExtensions/tree/wip-v2.4.0"
+                }
+            }
+        },
+        "richsage/rms-push-notifications-bundle": {
+            "0.1.0": {
+                "name": "richsage/rms-push-notifications-bundle",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "target-dir": "RMS/PushNotificationsBundle",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/RMSPushNotificationsBundle.git",
+                    "reference": "f4a37c46f4509d4233de444a6fc39941697a9bc1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/RMSPushNotificationsBundle/zipball/f4a37c46f4509d4233de444a6fc39941697a9bc1",
+                    "reference": "f4a37c46f4509d4233de444a6fc39941697a9bc1",
+                    "shasum": ""
+                },
+                "require": {
+                    "kriswallsmith/buzz": "*",
+                    "php": ">=5.3.0",
+                    "symfony/symfony": "2.*"
+                },
+                "time": "2013-09-05 14:43:29",
+                "type": "symfony-bundle",
+                "autoload": {
+                    "psr-0": {
+                        "RMS\\PushNotificationsBundle": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Rich Sage",
+                        "email": "rich.sage@gmail.com",
+                        "homepage": "http://www.richsage.co.uk/"
+                    }
+                ],
+                "description": "Push notifications/messages for mobile devices",
+                "homepage": "https://github.com/richsage/RMSPushNotificationsBundle",
+                "keywords": [
+                    "apns",
+                    "blackberry",
+                    "bundle",
+                    "c2dm",
+                    "gcm",
+                    "ios",
+                    "notification",
+                    "push"
+                ],
+                "support": {
+                    "source": "https://github.com/aminin/RMSPushNotificationsBundle/tree/0.1.0"
+                }
+            },
+            "0.1.1": {
+                "name": "richsage/rms-push-notifications-bundle",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "target-dir": "RMS/PushNotificationsBundle",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/RMSPushNotificationsBundle.git",
+                    "reference": "47aa6c3aeeec829885e2af4f22a5233a646dc312"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/RMSPushNotificationsBundle/zipball/47aa6c3aeeec829885e2af4f22a5233a646dc312",
+                    "reference": "47aa6c3aeeec829885e2af4f22a5233a646dc312",
+                    "shasum": ""
+                },
+                "require": {
+                    "kriswallsmith/buzz": "*",
+                    "php": ">=5.3.0",
+                    "symfony/symfony": "2.*"
+                },
+                "time": "2013-11-04 08:24:23",
+                "type": "symfony-bundle",
+                "autoload": {
+                    "psr-0": {
+                        "RMS\\PushNotificationsBundle": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Rich Sage",
+                        "email": "rich.sage@gmail.com",
+                        "homepage": "http://www.richsage.co.uk/"
+                    }
+                ],
+                "description": "Push notifications/messages for mobile devices",
+                "homepage": "https://github.com/richsage/RMSPushNotificationsBundle",
+                "keywords": [
+                    "apns",
+                    "blackberry",
+                    "bundle",
+                    "c2dm",
+                    "gcm",
+                    "ios",
+                    "notification",
+                    "push"
+                ],
+                "support": {
+                    "source": "https://github.com/aminin/RMSPushNotificationsBundle/tree/0.1.1"
+                }
+            },
+            "0.1.2": {
+                "name": "richsage/rms-push-notifications-bundle",
+                "version": "0.1.2",
+                "version_normalized": "0.1.2.0",
+                "target-dir": "RMS/PushNotificationsBundle",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/RMSPushNotificationsBundle.git",
+                    "reference": "7395ee7501f1dc34cd4f4b0028acfffbe302daf4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/RMSPushNotificationsBundle/zipball/7395ee7501f1dc34cd4f4b0028acfffbe302daf4",
+                    "reference": "7395ee7501f1dc34cd4f4b0028acfffbe302daf4",
+                    "shasum": ""
+                },
+                "require": {
+                    "kriswallsmith/buzz": "*",
+                    "php": ">=5.3.0",
+                    "symfony/symfony": "2.*"
+                },
+                "time": "2014-01-23 14:28:29",
+                "type": "symfony-bundle",
+                "autoload": {
+                    "psr-0": {
+                        "RMS\\PushNotificationsBundle": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Rich Sage",
+                        "email": "rich.sage@gmail.com",
+                        "homepage": "http://www.richsage.co.uk/"
+                    }
+                ],
+                "description": "Push notifications/messages for mobile devices",
+                "homepage": "https://github.com/richsage/RMSPushNotificationsBundle",
+                "keywords": [
+                    "apns",
+                    "blackberry",
+                    "bundle",
+                    "c2dm",
+                    "gcm",
+                    "ios",
+                    "notification",
+                    "push"
+                ],
+                "support": {
+                    "source": "https://github.com/aminin/RMSPushNotificationsBundle/tree/0.1.2"
+                }
+            },
+            "0.1.3": {
+                "name": "richsage/rms-push-notifications-bundle",
+                "version": "0.1.3",
+                "version_normalized": "0.1.3.0",
+                "target-dir": "RMS/PushNotificationsBundle",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/RMSPushNotificationsBundle.git",
+                    "reference": "b4d0a3c042deef4ccefd9eadd4487a4714a7a945"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/RMSPushNotificationsBundle/zipball/b4d0a3c042deef4ccefd9eadd4487a4714a7a945",
+                    "reference": "b4d0a3c042deef4ccefd9eadd4487a4714a7a945",
+                    "shasum": ""
+                },
+                "require": {
+                    "kriswallsmith/buzz": "*",
+                    "php": ">=5.3.0",
+                    "symfony/symfony": "2.*"
+                },
+                "time": "2015-01-02 10:50:57",
+                "type": "symfony-bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "0.1.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "RMS\\PushNotificationsBundle": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Rich Sage",
+                        "email": "rich.sage@gmail.com",
+                        "homepage": "http://www.richsage.co.uk/"
+                    }
+                ],
+                "description": "Push notifications/messages for mobile devices",
+                "homepage": "https://github.com/richsage/RMSPushNotificationsBundle",
+                "keywords": [
+                    "apns",
+                    "blackberry",
+                    "bundle",
+                    "c2dm",
+                    "gcm",
+                    "ios",
+                    "mpns",
+                    "notification",
+                    "push",
+                    "windowsphone"
+                ],
+                "support": {
+                    "source": "https://github.com/aminin/RMSPushNotificationsBundle/tree/0.1.3"
+                }
+            },
+            "0.1.4": {
+                "name": "richsage/rms-push-notifications-bundle",
+                "version": "0.1.4",
+                "version_normalized": "0.1.4.0",
+                "target-dir": "RMS/PushNotificationsBundle",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/RMSPushNotificationsBundle.git",
+                    "reference": "22c1927b63e353cee5b7364b37ddec50e81062b7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/RMSPushNotificationsBundle/zipball/22c1927b63e353cee5b7364b37ddec50e81062b7",
+                    "reference": "22c1927b63e353cee5b7364b37ddec50e81062b7",
+                    "shasum": ""
+                },
+                "require": {
+                    "kriswallsmith/buzz": "*",
+                    "php": ">=5.3.0",
+                    "symfony/symfony": "2.*"
+                },
+                "time": "2015-03-02 10:35:56",
+                "type": "symfony-bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "0.1.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "RMS\\PushNotificationsBundle": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Rich Sage",
+                        "email": "rich.sage@gmail.com",
+                        "homepage": "http://www.richsage.co.uk/"
+                    }
+                ],
+                "description": "Push notifications/messages for mobile devices",
+                "homepage": "https://github.com/richsage/RMSPushNotificationsBundle",
+                "keywords": [
+                    "apns",
+                    "blackberry",
+                    "bundle",
+                    "c2dm",
+                    "gcm",
+                    "ios",
+                    "mpns",
+                    "notification",
+                    "push",
+                    "windowsphone"
+                ],
+                "support": {
+                    "source": "https://github.com/aminin/RMSPushNotificationsBundle/tree/0.1.4"
+                }
+            },
+            "0.1.5": {
+                "name": "richsage/rms-push-notifications-bundle",
+                "version": "0.1.5",
+                "version_normalized": "0.1.5.0",
+                "target-dir": "RMS/PushNotificationsBundle",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/RMSPushNotificationsBundle.git",
+                    "reference": "c065be97ba235b9a5a0bf4ec7a9fc966360a9d66"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/RMSPushNotificationsBundle/zipball/c065be97ba235b9a5a0bf4ec7a9fc966360a9d66",
+                    "reference": "c065be97ba235b9a5a0bf4ec7a9fc966360a9d66",
+                    "shasum": ""
+                },
+                "require": {
+                    "kriswallsmith/buzz": "*",
+                    "php": ">=5.3.0",
+                    "symfony/symfony": "2.*"
+                },
+                "time": "2015-04-02 11:10:56",
+                "type": "symfony-bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "0.1.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "RMS\\PushNotificationsBundle": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Rich Sage",
+                        "email": "rich.sage@gmail.com",
+                        "homepage": "http://www.richsage.co.uk/"
+                    }
+                ],
+                "description": "Push notifications/messages for mobile devices",
+                "homepage": "https://github.com/richsage/RMSPushNotificationsBundle",
+                "keywords": [
+                    "apns",
+                    "blackberry",
+                    "bundle",
+                    "c2dm",
+                    "gcm",
+                    "ios",
+                    "mpns",
+                    "notification",
+                    "push",
+                    "windowsphone"
+                ],
+                "support": {
+                    "source": "https://github.com/aminin/RMSPushNotificationsBundle/tree/0.1.5"
+                }
+            },
+            "0.1.6": {
+                "name": "richsage/rms-push-notifications-bundle",
+                "version": "0.1.6",
+                "version_normalized": "0.1.6.0",
+                "target-dir": "RMS/PushNotificationsBundle",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/RMSPushNotificationsBundle.git",
+                    "reference": "b89badc69ded8377d001766493c5fc2b56347494"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/RMSPushNotificationsBundle/zipball/b89badc69ded8377d001766493c5fc2b56347494",
+                    "reference": "b89badc69ded8377d001766493c5fc2b56347494",
+                    "shasum": ""
+                },
+                "require": {
+                    "kriswallsmith/buzz": "*",
+                    "php": ">=5.3.0"
+                },
+                "require-dev": {
+                    "symfony/symfony": "2.*"
+                },
+                "suggest": {
+                    "symfony/symfony": "To use as a bundle"
+                },
+                "time": "2015-05-14 08:17:38",
+                "type": "symfony-bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "0.1.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "RMS\\PushNotificationsBundle": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Rich Sage",
+                        "email": "rich.sage@gmail.com",
+                        "homepage": "http://www.richsage.co.uk/"
+                    }
+                ],
+                "description": "Push notifications/messages for mobile devices",
+                "homepage": "https://github.com/richsage/RMSPushNotificationsBundle",
+                "keywords": [
+                    "apns",
+                    "blackberry",
+                    "bundle",
+                    "c2dm",
+                    "gcm",
+                    "ios",
+                    "mpns",
+                    "notification",
+                    "push",
+                    "windowsphone"
+                ],
+                "support": {
+                    "source": "https://github.com/aminin/RMSPushNotificationsBundle/tree/0.1.6"
+                }
+            },
+            "0.1.7": {
+                "name": "richsage/rms-push-notifications-bundle",
+                "version": "0.1.7",
+                "version_normalized": "0.1.7.0",
+                "target-dir": "RMS/PushNotificationsBundle",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/RMSPushNotificationsBundle.git",
+                    "reference": "b6205fa90d26733e3e3ce2900b8883a902bdd8f4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/RMSPushNotificationsBundle/zipball/b6205fa90d26733e3e3ce2900b8883a902bdd8f4",
+                    "reference": "b6205fa90d26733e3e3ce2900b8883a902bdd8f4",
+                    "shasum": ""
+                },
+                "require": {
+                    "kriswallsmith/buzz": "*",
+                    "php": ">=5.3.0"
+                },
+                "require-dev": {
+                    "symfony/symfony": "2.*"
+                },
+                "suggest": {
+                    "symfony/symfony": "To use as a bundle"
+                },
+                "time": "2015-06-08 08:56:26",
+                "type": "symfony-bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "0.1.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "RMS\\PushNotificationsBundle": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Rich Sage",
+                        "email": "rich.sage@gmail.com",
+                        "homepage": "http://www.richsage.co.uk/"
+                    }
+                ],
+                "description": "Push notifications/messages for mobile devices",
+                "homepage": "https://github.com/richsage/RMSPushNotificationsBundle",
+                "keywords": [
+                    "apns",
+                    "blackberry",
+                    "bundle",
+                    "c2dm",
+                    "gcm",
+                    "ios",
+                    "mpns",
+                    "notification",
+                    "push",
+                    "windowsphone"
+                ],
+                "support": {
+                    "source": "https://github.com/aminin/RMSPushNotificationsBundle/tree/0.1.7"
+                }
+            },
+            "0.1.8": {
+                "name": "richsage/rms-push-notifications-bundle",
+                "version": "0.1.8",
+                "version_normalized": "0.1.8.0",
+                "target-dir": "RMS/PushNotificationsBundle",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/RMSPushNotificationsBundle.git",
+                    "reference": "98659c696925c1b9c21a0703cd01bcee0bbae669"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/RMSPushNotificationsBundle/zipball/98659c696925c1b9c21a0703cd01bcee0bbae669",
+                    "reference": "98659c696925c1b9c21a0703cd01bcee0bbae669",
+                    "shasum": ""
+                },
+                "require": {
+                    "kriswallsmith/buzz": "*",
+                    "php": ">=5.3.0"
+                },
+                "require-dev": {
+                    "symfony/symfony": "2.*"
+                },
+                "suggest": {
+                    "symfony/symfony": "To use as a bundle"
+                },
+                "time": "2015-06-29 08:57:44",
+                "type": "symfony-bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "0.1.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "RMS\\PushNotificationsBundle": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Rich Sage",
+                        "email": "rich.sage@gmail.com",
+                        "homepage": "http://www.richsage.co.uk/"
+                    }
+                ],
+                "description": "Push notifications/messages for mobile devices",
+                "homepage": "https://github.com/richsage/RMSPushNotificationsBundle",
+                "keywords": [
+                    "apns",
+                    "blackberry",
+                    "bundle",
+                    "c2dm",
+                    "gcm",
+                    "ios",
+                    "mpns",
+                    "notification",
+                    "push",
+                    "windowsphone"
+                ],
+                "support": {
+                    "source": "https://github.com/aminin/RMSPushNotificationsBundle/tree/0.1.8"
+                }
+            },
+            "0.1.9": {
+                "name": "richsage/rms-push-notifications-bundle",
+                "version": "0.1.9",
+                "version_normalized": "0.1.9.0",
+                "target-dir": "RMS/PushNotificationsBundle",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/RMSPushNotificationsBundle.git",
+                    "reference": "27055283e4fe9b30dafa96ba25e6102d9d1a040c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/RMSPushNotificationsBundle/zipball/27055283e4fe9b30dafa96ba25e6102d9d1a040c",
+                    "reference": "27055283e4fe9b30dafa96ba25e6102d9d1a040c",
+                    "shasum": ""
+                },
+                "require": {
+                    "kriswallsmith/buzz": "*",
+                    "php": ">=5.3.0"
+                },
+                "require-dev": {
+                    "symfony/symfony": "2.*"
+                },
+                "suggest": {
+                    "symfony/symfony": "To use as a bundle"
+                },
+                "time": "2015-08-21 07:29:03",
+                "type": "symfony-bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "0.1.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "RMS\\PushNotificationsBundle": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Rich Sage",
+                        "email": "rich.sage@gmail.com",
+                        "homepage": "http://www.richsage.co.uk/"
+                    }
+                ],
+                "description": "Push notifications/messages for mobile devices",
+                "homepage": "https://github.com/richsage/RMSPushNotificationsBundle",
+                "keywords": [
+                    "apns",
+                    "blackberry",
+                    "bundle",
+                    "c2dm",
+                    "gcm",
+                    "ios",
+                    "mpns",
+                    "notification",
+                    "push",
+                    "windowsphone"
+                ],
+                "support": {
+                    "source": "https://github.com/aminin/RMSPushNotificationsBundle/tree/0.1.9"
+                }
+            },
+            "0.2.0": {
+                "name": "richsage/rms-push-notifications-bundle",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "target-dir": "RMS/PushNotificationsBundle",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/RMSPushNotificationsBundle.git",
+                    "reference": "0e4cbe48b02b1496f8552eaea8871756106714d6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/RMSPushNotificationsBundle/zipball/0e4cbe48b02b1496f8552eaea8871756106714d6",
+                    "reference": "0e4cbe48b02b1496f8552eaea8871756106714d6",
+                    "shasum": ""
+                },
+                "require": {
+                    "kriswallsmith/buzz": "*",
+                    "php": ">=5.3.0",
+                    "psr/log": "^1.0"
+                },
+                "require-dev": {
+                    "symfony/symfony": "2.*"
+                },
+                "suggest": {
+                    "symfony/symfony": "To use as a bundle"
+                },
+                "time": "2016-03-24 11:31:56",
+                "type": "symfony-bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "0.1.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "RMS\\PushNotificationsBundle": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Rich Sage",
+                        "email": "rich.sage@gmail.com",
+                        "homepage": "http://www.richsage.co.uk/"
+                    }
+                ],
+                "description": "Push notifications/messages for mobile devices",
+                "homepage": "https://github.com/richsage/RMSPushNotificationsBundle",
+                "keywords": [
+                    "apns",
+                    "blackberry",
+                    "bundle",
+                    "c2dm",
+                    "gcm",
+                    "ios",
+                    "mpns",
+                    "notification",
+                    "push",
+                    "windowsphone"
+                ],
+                "support": {
+                    "source": "https://github.com/aminin/RMSPushNotificationsBundle/tree/0.2.0"
+                }
+            },
+            "0.2.1": {
+                "name": "richsage/rms-push-notifications-bundle",
+                "version": "0.2.1",
+                "version_normalized": "0.2.1.0",
+                "target-dir": "RMS/PushNotificationsBundle",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/RMSPushNotificationsBundle.git",
+                    "reference": "c40db9d932a520ea47014725d6cc7d477c40b69a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/RMSPushNotificationsBundle/zipball/c40db9d932a520ea47014725d6cc7d477c40b69a",
+                    "reference": "c40db9d932a520ea47014725d6cc7d477c40b69a",
+                    "shasum": ""
+                },
+                "require": {
+                    "kriswallsmith/buzz": "*",
+                    "php": ">=5.3.0",
+                    "psr/log": "^1.0"
+                },
+                "require-dev": {
+                    "symfony/symfony": "2.*"
+                },
+                "suggest": {
+                    "symfony/symfony": "To use as a bundle"
+                },
+                "time": "2016-03-24 11:42:32",
+                "type": "symfony-bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "0.1.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "RMS\\PushNotificationsBundle": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Rich Sage",
+                        "email": "rich.sage@gmail.com",
+                        "homepage": "http://www.richsage.co.uk/"
+                    }
+                ],
+                "description": "Push notifications/messages for mobile devices",
+                "homepage": "https://github.com/richsage/RMSPushNotificationsBundle",
+                "keywords": [
+                    "apns",
+                    "blackberry",
+                    "bundle",
+                    "c2dm",
+                    "gcm",
+                    "ios",
+                    "mpns",
+                    "notification",
+                    "push",
+                    "windowsphone"
+                ],
+                "support": {
+                    "source": "https://github.com/aminin/RMSPushNotificationsBundle/tree/0.2.1"
+                }
+            },
+            "0.2.2": {
+                "name": "richsage/rms-push-notifications-bundle",
+                "version": "0.2.2",
+                "version_normalized": "0.2.2.0",
+                "target-dir": "RMS/PushNotificationsBundle",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/RMSPushNotificationsBundle.git",
+                    "reference": "052b4f9379fabc03aed7ca8991ebaa2447546da1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/RMSPushNotificationsBundle/zipball/052b4f9379fabc03aed7ca8991ebaa2447546da1",
+                    "reference": "052b4f9379fabc03aed7ca8991ebaa2447546da1",
+                    "shasum": ""
+                },
+                "require": {
+                    "kriswallsmith/buzz": "*",
+                    "php": ">=5.3.0",
+                    "psr/log": "^1.0"
+                },
+                "require-dev": {
+                    "symfony/symfony": "2.*"
+                },
+                "suggest": {
+                    "symfony/symfony": "To use as a bundle"
+                },
+                "time": "2016-03-26 11:53:26",
+                "type": "symfony-bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "0.2.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "RMS\\PushNotificationsBundle": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Rich Sage",
+                        "email": "rich.sage@gmail.com",
+                        "homepage": "http://www.richsage.co.uk/"
+                    }
+                ],
+                "description": "Push notifications/messages for mobile devices",
+                "homepage": "https://github.com/richsage/RMSPushNotificationsBundle",
+                "keywords": [
+                    "apns",
+                    "blackberry",
+                    "bundle",
+                    "c2dm",
+                    "gcm",
+                    "ios",
+                    "mpns",
+                    "notification",
+                    "push",
+                    "windowsphone"
+                ],
+                "support": {
+                    "source": "https://github.com/aminin/RMSPushNotificationsBundle/tree/0.2.2"
+                }
+            },
+            "0.2.3": {
+                "name": "richsage/rms-push-notifications-bundle",
+                "version": "0.2.3",
+                "version_normalized": "0.2.3.0",
+                "target-dir": "RMS/PushNotificationsBundle",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/RMSPushNotificationsBundle.git",
+                    "reference": "26840ddb386aa58e499261477996ac055e05acd7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/RMSPushNotificationsBundle/zipball/26840ddb386aa58e499261477996ac055e05acd7",
+                    "reference": "26840ddb386aa58e499261477996ac055e05acd7",
+                    "shasum": ""
+                },
+                "require": {
+                    "kriswallsmith/buzz": "*",
+                    "php": ">=5.3.0",
+                    "psr/log": "^1.0"
+                },
+                "require-dev": {
+                    "symfony/symfony": "2.*"
+                },
+                "suggest": {
+                    "symfony/symfony": "To use as a bundle"
+                },
+                "time": "2016-04-01 09:54:32",
+                "type": "symfony-bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "0.2.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "RMS\\PushNotificationsBundle": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Rich Sage",
+                        "email": "rich.sage@gmail.com",
+                        "homepage": "http://www.richsage.co.uk/"
+                    }
+                ],
+                "description": "Push notifications/messages for mobile devices",
+                "homepage": "https://github.com/richsage/RMSPushNotificationsBundle",
+                "keywords": [
+                    "apns",
+                    "blackberry",
+                    "bundle",
+                    "c2dm",
+                    "gcm",
+                    "ios",
+                    "mpns",
+                    "notification",
+                    "push",
+                    "windowsphone"
+                ],
+                "support": {
+                    "source": "https://github.com/aminin/RMSPushNotificationsBundle/tree/0.2.3"
+                }
+            },
+            "dev-master": {
+                "name": "richsage/rms-push-notifications-bundle",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "target-dir": "RMS/PushNotificationsBundle",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/RMSPushNotificationsBundle.git",
+                    "reference": "26840ddb386aa58e499261477996ac055e05acd7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/RMSPushNotificationsBundle/zipball/26840ddb386aa58e499261477996ac055e05acd7",
+                    "reference": "26840ddb386aa58e499261477996ac055e05acd7",
+                    "shasum": ""
+                },
+                "require": {
+                    "kriswallsmith/buzz": "*",
+                    "php": ">=5.3.0",
+                    "psr/log": "^1.0"
+                },
+                "require-dev": {
+                    "symfony/symfony": "2.*"
+                },
+                "suggest": {
+                    "symfony/symfony": "To use as a bundle"
+                },
+                "time": "2016-04-01 09:54:32",
+                "type": "symfony-bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "0.2.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "RMS\\PushNotificationsBundle": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Rich Sage",
+                        "email": "rich.sage@gmail.com",
+                        "homepage": "http://www.richsage.co.uk/"
+                    }
+                ],
+                "description": "Push notifications/messages for mobile devices",
+                "homepage": "https://github.com/richsage/RMSPushNotificationsBundle",
+                "keywords": [
+                    "apns",
+                    "blackberry",
+                    "bundle",
+                    "c2dm",
+                    "gcm",
+                    "ios",
+                    "mpns",
+                    "notification",
+                    "push",
+                    "windowsphone"
+                ],
+                "support": {
+                    "source": "https://github.com/aminin/RMSPushNotificationsBundle/tree/0.2.3"
+                }
+            },
+            "dev-add-logger": {
+                "name": "richsage/rms-push-notifications-bundle",
+                "version": "dev-add-logger",
+                "version_normalized": "dev-add-logger",
+                "target-dir": "RMS/PushNotificationsBundle",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/RMSPushNotificationsBundle.git",
+                    "reference": "edfcffeb2e7658b3813ab61481dcd697eb7e5a5f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/RMSPushNotificationsBundle/zipball/edfcffeb2e7658b3813ab61481dcd697eb7e5a5f",
+                    "reference": "edfcffeb2e7658b3813ab61481dcd697eb7e5a5f",
+                    "shasum": ""
+                },
+                "require": {
+                    "kriswallsmith/buzz": "*",
+                    "php": ">=5.3.0",
+                    "symfony/symfony": "2.*"
+                },
+                "require-dev": {
+                    "psr/log": "~1.0"
+                },
+                "time": "2013-09-30 07:48:58",
+                "type": "symfony-bundle",
+                "autoload": {
+                    "psr-0": {
+                        "RMS\\PushNotificationsBundle": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Rich Sage",
+                        "email": "rich.sage@gmail.com",
+                        "homepage": "http://www.richsage.co.uk/"
+                    }
+                ],
+                "description": "Push notifications/messages for mobile devices",
+                "homepage": "https://github.com/richsage/RMSPushNotificationsBundle",
+                "keywords": [
+                    "apns",
+                    "blackberry",
+                    "bundle",
+                    "c2dm",
+                    "gcm",
+                    "ios",
+                    "notification",
+                    "push"
+                ],
+                "support": {
+                    "source": "https://github.com/aminin/RMSPushNotificationsBundle/tree/add-logger"
+                }
+            },
+            "dev-remove-c2dm": {
+                "name": "richsage/rms-push-notifications-bundle",
+                "version": "dev-remove-c2dm",
+                "version_normalized": "dev-remove-c2dm",
+                "target-dir": "RMS/PushNotificationsBundle",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/RMSPushNotificationsBundle.git",
+                    "reference": "27efcf3890588c8231ca6f98c07e40d471c82939"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/RMSPushNotificationsBundle/zipball/27efcf3890588c8231ca6f98c07e40d471c82939",
+                    "reference": "27efcf3890588c8231ca6f98c07e40d471c82939",
+                    "shasum": ""
+                },
+                "require": {
+                    "kriswallsmith/buzz": "*",
+                    "php": ">=5.3.0",
+                    "psr/log": "^1.0"
+                },
+                "require-dev": {
+                    "symfony/symfony": "2.*"
+                },
+                "suggest": {
+                    "symfony/symfony": "To use as a bundle"
+                },
+                "time": "2016-03-26 11:52:35",
+                "type": "symfony-bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "0.2.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "RMS\\PushNotificationsBundle": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Rich Sage",
+                        "email": "rich.sage@gmail.com",
+                        "homepage": "http://www.richsage.co.uk/"
+                    }
+                ],
+                "description": "Push notifications/messages for mobile devices",
+                "homepage": "https://github.com/richsage/RMSPushNotificationsBundle",
+                "keywords": [
+                    "apns",
+                    "blackberry",
+                    "bundle",
+                    "c2dm",
+                    "gcm",
+                    "ios",
+                    "mpns",
+                    "notification",
+                    "push",
+                    "windowsphone"
+                ],
+                "support": {
+                    "source": "https://github.com/aminin/RMSPushNotificationsBundle/tree/remove-c2dm"
+                }
+            },
+            "dev-symfony2.0": {
+                "name": "richsage/rms-push-notifications-bundle",
+                "version": "dev-symfony2.0",
+                "version_normalized": "dev-symfony2.0",
+                "target-dir": "RMS/PushNotificationsBundle",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/RMSPushNotificationsBundle.git",
+                    "reference": "279bd5673aa8ea936747cb20e09f7d529ecd8356"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/RMSPushNotificationsBundle/zipball/279bd5673aa8ea936747cb20e09f7d529ecd8356",
+                    "reference": "279bd5673aa8ea936747cb20e09f7d529ecd8356",
+                    "shasum": ""
+                },
+                "require": {
+                    "kriswallsmith/buzz": "*",
+                    "php": ">=5.3.0",
+                    "symfony/symfony": "2.*"
+                },
+                "time": "2013-03-05 08:10:38",
+                "type": "symfony-bundle",
+                "autoload": {
+                    "psr-0": {
+                        "RMS\\PushNotificationsBundle": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Rich Sage",
+                        "email": "rich.sage@gmail.com",
+                        "homepage": "http://www.richsage.co.uk/"
+                    }
+                ],
+                "description": "Push notifications/messages for mobile devices",
+                "homepage": "https://github.com/richsage/RMSPushNotificationsBundle",
+                "keywords": [
+                    "apns",
+                    "blackberry",
+                    "bundle",
+                    "c2dm",
+                    "gcm",
+                    "ios",
+                    "notification",
+                    "push"
+                ],
+                "support": {
+                    "source": "https://github.com/aminin/RMSPushNotificationsBundle/tree/symfony2.0"
+                }
+            },
+            "dev-windows-mobile": {
+                "name": "richsage/rms-push-notifications-bundle",
+                "version": "dev-windows-mobile",
+                "version_normalized": "dev-windows-mobile",
+                "target-dir": "RMS/PushNotificationsBundle",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/RMSPushNotificationsBundle.git",
+                    "reference": "614f51b1c968caf67dddc6f1a46a04b0c1432946"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/RMSPushNotificationsBundle/zipball/614f51b1c968caf67dddc6f1a46a04b0c1432946",
+                    "reference": "614f51b1c968caf67dddc6f1a46a04b0c1432946",
+                    "shasum": ""
+                },
+                "require": {
+                    "kriswallsmith/buzz": "*",
+                    "php": ">=5.3.0",
+                    "symfony/symfony": "2.*"
+                },
+                "time": "2013-10-09 12:58:49",
+                "type": "symfony-bundle",
+                "autoload": {
+                    "psr-0": {
+                        "RMS\\PushNotificationsBundle": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Rich Sage",
+                        "email": "rich.sage@gmail.com",
+                        "homepage": "http://www.richsage.co.uk/"
+                    }
+                ],
+                "description": "Push notifications/messages for mobile devices",
+                "homepage": "https://github.com/richsage/RMSPushNotificationsBundle",
+                "keywords": [
+                    "apns",
+                    "blackberry",
+                    "bundle",
+                    "c2dm",
+                    "gcm",
+                    "ios",
+                    "notification",
+                    "push"
+                ],
+                "support": {
+                    "source": "https://github.com/aminin/RMSPushNotificationsBundle/tree/windows-mobile"
+                }
+            }
+        },
+        "sgk/barcode-bundle": {
+            "v1.1.0": {
+                "name": "sgk/barcode-bundle",
+                "version": "v1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/SGKBarcodeBundle.git",
+                    "reference": "9184b24b36165a7ec854d543a234d4ce368c4acd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/SGKBarcodeBundle/zipball/9184b24b36165a7ec854d543a234d4ce368c4acd",
+                    "reference": "9184b24b36165a7ec854d543a234d4ce368c4acd",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.3.2",
+                    "symfony/framework-bundle": "~2.3",
+                    "symfony/options-resolver": "~2.1",
+                    "symfony/twig-bundle": "~2.3"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.5.0"
+                },
+                "time": "2016-04-01 08:15:04",
+                "type": "symfony-bundle",
+                "autoload": {
+                    "psr-4": {
+                        "SGK\\BarcodeBundle\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Dinesh Rabara",
+                        "email": "dinesh.rabara@gmail.com"
+                    },
+                    {
+                        "name": "SHANG Guokan",
+                        "email": "shangguokan@hotmail.com",
+                        "homepage": "https://github.com/shangguokan"
+                    }
+                ],
+                "description": "Symfony2 Barcode Generator Bundle with Twig function extension",
+                "keywords": [
+                    "Bundle",
+                    "Symfony",
+                    "Symfony2",
+                    "Twig",
+                    "barcode",
+                    "generator",
+                    "qr code",
+                    "qrcode"
+                ],
+                "support": {
+                    "source": "https://github.com/aminin/SGKBarcodeBundle/tree/v1.1.0",
+                    "issues": "https://github.com/aminin/SGKBarcodeBundle/issues"
+                }
+            },
+            "dev-master": {
+                "name": "sgk/barcode-bundle",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/SGKBarcodeBundle.git",
+                    "reference": "43cd16fbf095ea29c19ecf9ce68f9486e9d6ab5d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/SGKBarcodeBundle/zipball/43cd16fbf095ea29c19ecf9ce68f9486e9d6ab5d",
+                    "reference": "43cd16fbf095ea29c19ecf9ce68f9486e9d6ab5d",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.3.2",
+                    "symfony/framework-bundle": "~2.3",
+                    "symfony/options-resolver": "~2.1",
+                    "symfony/twig-bundle": "~2.3"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.5.0"
+                },
+                "time": "2016-06-16 20:08:37",
+                "type": "symfony-bundle",
+                "autoload": {
+                    "psr-4": {
+                        "SGK\\BarcodeBundle\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Dinesh Rabara",
+                        "email": "dinesh.rabara@gmail.com"
+                    },
+                    {
+                        "name": "SHANG Guokan",
+                        "email": "shangguokan@hotmail.com",
+                        "homepage": "https://github.com/shangguokan"
+                    }
+                ],
+                "description": "Symfony2 Barcode Generator Bundle with Twig function extension",
+                "keywords": [
+                    "Bundle",
+                    "Symfony",
+                    "Symfony2",
+                    "Twig",
+                    "barcode",
+                    "generator",
+                    "qr code",
+                    "qrcode"
+                ],
+                "support": {
+                    "source": "https://github.com/aminin/SGKBarcodeBundle/tree/master",
+                    "issues": "https://github.com/aminin/SGKBarcodeBundle/issues"
+                }
+            }
+        }
+    }
+}

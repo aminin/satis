@@ -9,7 +9,7 @@
     ],
     "require": {
         "liip/imagine-bundle": "*",
-        "gedmo/doctrine-extensions": "*",
+        "gedmo/doctrine-extensions": ">=2.4.12",
         "richsage/rms-push-notifications-bundle": "*",
         "sgk/barcode-bundle": "*"
     }

@@ -5,9 +5,11 @@
         { "type": "vcs", "url": "git@github.com:aminin/LiipImagineBundle.git" },
         { "type": "vcs", "url": "git@github.com:aminin/DoctrineExtensions.git" },
         { "type": "vcs", "url": "git@github.com:aminin/RMSPushNotificationsBundle.git" },
-        { "type": "vcs", "url": "git@github.com:aminin/SGKBarcodeBundle.git" }
+        { "type": "vcs", "url": "git@github.com:aminin/SGKBarcodeBundle.git" },
+        { "type": "vcs", "url": "git@github.com:aminin/socket.io-php-emitter.git" }
     ],
     "require": {
+        "aminin/socket.io-emitter": "*",
         "liip/imagine-bundle": "*",
         "gedmo/doctrine-extensions": ">=2.4.12",
         "richsage/rms-push-notifications-bundle": "*",

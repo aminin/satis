@@ -2,11 +2,13 @@
     "name": "My composer repo",
     "homepage": "https://aminin.github.io/satis/",
     "repositories": [
+        { "type": "vcs", "url": "git@github.com:aminin/SonataMediaBundle.git" },
         { "type": "vcs", "url": "git@github.com:aminin/SVGGraph.git" },
         { "type": "vcs", "url": "git@github.com:aminin/RMSPushNotificationsBundle.git" },
         { "type": "vcs", "url": "git@github.com:aminin/SGKBarcodeBundle.git" }
     ],
     "require": {
+        "sonata-project/media-bundle": "2.*",
         "goat1000/svggraph": "dev-php55-dev",
         "richsage/rms-push-notifications-bundle": "*",
         "sgk/barcode-bundle": "*"

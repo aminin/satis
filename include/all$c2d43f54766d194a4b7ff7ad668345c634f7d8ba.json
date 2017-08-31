@@ -292,6 +292,49 @@
                     "source": "https://github.com/aminin/api-v1-client-php/tree/v1.4"
                 }
             },
+            "v1.4.1": {
+                "name": "blockchain/blockchain",
+                "version": "v1.4.1",
+                "version_normalized": "1.4.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aminin/api-v1-client-php.git",
+                    "reference": "8c0eb9f68b47144197e65a09202d018362937d8f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aminin/api-v1-client-php/zipball/8c0eb9f68b47144197e65a09202d018362937d8f",
+                    "reference": "8c0eb9f68b47144197e65a09202d018362937d8f",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-bcmath": "*",
+                    "ext-curl": "*",
+                    "php": ">=5.3.0"
+                },
+                "require-dev": {
+                    "squizlabs/php_codesniffer": "^3.0.2"
+                },
+                "time": "2017-08-24T00:47:30+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Blockchain\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "description": "Blockchain API client library",
+                "homepage": "https://github.com/blockchain/api-v1-client-php",
+                "keywords": [
+                    "bitcoin",
+                    "blockchain"
+                ],
+                "support": {
+                    "source": "https://github.com/aminin/api-v1-client-php/tree/master"
+                }
+            },
             "dev-master": {
                 "name": "blockchain/blockchain",
                 "version": "dev-master",

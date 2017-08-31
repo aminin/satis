@@ -2,6 +2,7 @@
     "name": "My composer repo",
     "homepage": "https://aminin.github.io/satis/",
     "repositories": [
+        { "type": "vcs", "url": "git@github.com:aminin/api-v1-client-php.git" },
         { "type": "vcs", "url": "git@github.com:aminin/SettingsBundle.git" },
         { "type": "vcs", "url": "git@github.com:aminin/socket.io-php-emitter.git" },
         { "type": "vcs", "url": "git@github.com:aminin/SonataMediaBundle.git" },
@@ -9,6 +10,7 @@
         { "type": "vcs", "url": "git@github.com:aminin/SGKBarcodeBundle.git" }
     ],
     "require": {
+        "blockchain/blockchain": "*",
         "dmishh/settings-bundle": "2.0.0",
         "ashiina/socket.io-emitter": "0.9.*",
         "sonata-project/media-bundle": "2.*",

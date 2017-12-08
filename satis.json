@@ -1,5 +1,5 @@
 {
-    "name": "My composer repo",
+    "name": "AMinin composer repo",
     "homepage": "https://aminin.github.io/satis/",
     "repositories": [
         { "type": "vcs", "url": "git@github.com:aminin/api-v1-client-php.git" },

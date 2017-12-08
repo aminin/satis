@@ -9,8 +9,22 @@ pushd web
   git checkout gh-pages -f
   git pull
 popd
-test -e composer.phar || curl -sS https://getcomposer.org/installer | php
-test -d satis || php composer.phar create-project composer/satis --stability=dev --keep-vcs
+
+if [[ ! $(command -v php) ]]; then
+    echo "Can't find php interpreter";
+    exit 1;
+fi
+
+if [[ ! -d satis ]]; then
+    if [[ $(command -v composer) ]]; then
+        COMPOSER=composer
+    else
+        (test -e composer.phar || curl -sS https://getcomposer.org/installer | php) && COMPOSER='php composer.phar'
+    fi
+
+    ${COMPOSER} create-project composer/satis --stability=dev --keep-vcs
+fi
+
 php satis/bin/satis build satis.json web/
 
 if [[ "$1" == 'push' ]]; then

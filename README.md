@@ -1,7 +1,7 @@
 # AMinin composer repo
 
 | Package | Why is it here? | GitHub repo |
-|---|---|
+|---|---|---|
 | [blockchain/blockchain](https://packagist.org/packages/blockchain/blockchain) | See [this PR](https://github.com/blockchain/api-v1-client-php/pull/60) | [aminin/api-v1-client-php.git](https://github.com/aminin/api-v1-client-php.git) |
 | [dmishh/settings-bundle](https://packagist.org/packages/dmishh/settings-bundle) | Waiting for stable version 2.0.0 | [aminin/SettingsBundle.git](https://github.com/aminin/SettingsBundle.git) |
 | [ashiina/socket.io-php-emitter](https://packagist.org/packages/ashiina/socket.io-php-emitter) | See [this PR](https://github.com/ashiina/socket.io-php-emitter/pull/3#issuecomment-278871452) | [aminin/socket.io-php-emitter.git](https://github.com/aminin/socket.io-php-emitter.git) |
